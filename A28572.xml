@@ -1,0 +1,1860 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Le Lutrin an heroick poem / written originally in French by Monsieur Boileau ; made English by N. O.</title>
+            <title>Lutrin. English</title>
+            <author>Boileau Despréaux, Nicolas, 1636-1711.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1682</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 75 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28572</idno>
+            <idno type="STC">Wing B3465</idno>
+            <idno type="STC">ESTC R15698</idno>
+            <idno type="EEBO-CITATION">13146825</idno>
+            <idno type="OCLC">ocm 13146825</idno>
+            <idno type="VID">98069</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28572)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 98069)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 446:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Le Lutrin an heroick poem / written originally in French by Monsieur Boileau ; made English by N. O.</title>
+                  <title>Lutrin. English</title>
+                  <author>Boileau Despréaux, Nicolas, 1636-1711.</author>
+                  <author>N. O.</author>
+               </titleStmt>
+               <extent>[2], 41 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. A. for Benjamin Alsop ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1682.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>In verse.</note>
+                  <note>First edition in English.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:98069:1"/>
+            <pb facs="tcp:98069:1"/>
+            <p>Le Lutrin: AN HEROICK POEM, WRITTEN Originally in FRENCH, BY <hi>MONSIE<g ref="char:V">Ʋ</g>R BOILEA<g ref="char:V">Ʋ</g>:</hi>
+            </p>
+            <p>Made <hi>ENGLISH</hi> BY N. O.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. A.</hi> for <hi>Benjamin Alſop</hi> at the <hi>Angel</hi> and <hi>Bible</hi> in the <hi>Poultrey,</hi> 1682.</p>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:98069:2"/>
+            <pb n="1" facs="tcp:98069:2"/>
+            <head>Le Lutrin: AN HEROICK POEM.</head>
+            <div n="1" type="canto">
+               <head>CANTO I.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <lg>
+                     <l>The Argument? <hi>what needs a</hi> Proëme,</l>
+                     <l>
+                        <hi>To vamp a Three-half-penny</hi> Poëme?</l>
+                     <l>
+                        <hi>No,</hi> Reader, <hi>No; 'twas never writt</hi>
+                     </l>
+                     <l>
+                        <hi>For thy ſake, but for little</hi> Chitt.</l>
+                     <l>
+                        <hi>St.</hi> George <hi>oth' back-ſide of the</hi> Horn-book,</l>
+                     <l>
+                        <hi>The Dragon kills, to Humour</hi> Scorn-book.</l>
+                     <l>
+                        <hi>And thus to wheddle in young Fops,</hi>
+                     </l>
+                     <l>
+                        <hi>The gilded Sign hangs o're the Shops:</hi>
+                     </l>
+                     <l>Miſs <hi>won't come in to Buy, before</hi>
+                     </l>
+                     <l>
+                        <hi>She ſpies the Knick-knacks at the Dore.</hi>
+                     </l>
+                     <l>
+                        <hi>Thus Queaſie</hi> Madams <hi>meat forbear</hi>
+                     </l>
+                     <l>
+                        <hi>Untill they read,</hi> The Bill of Fare.</l>
+                     <pb n="2" facs="tcp:98069:3"/>
+                     <l>
+                        <hi>Inſtead of</hi> Frontiſpiece, <hi>or</hi> Babbie,<note place="margin">Canto 1.</note>
+                     </l>
+                     <l>
+                        <hi>We plac't to pleaſe ſome puiney</hi> Rabbie,</l>
+                     <l>
+                        <hi>Who hates an</hi> Author <hi>that enlarges,</hi>
+                     </l>
+                     <l>
+                        <hi>And</hi> cons <hi>the</hi> Index <hi>to ſave charges.</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>Diſcord, <hi>that Tearing, Hectoring Ranter,</hi>
+                     </l>
+                     <l>
+                        <hi>Provokes</hi> a Dean <hi>and his</hi> Arch-chanter,</l>
+                     <l>
+                        <hi>Who had liv'd friendly forty years,</hi>
+                     </l>
+                     <l>
+                        <hi>To fall together by the ears;</hi>
+                     </l>
+                     <l>
+                        <hi>A</hi> Rotten Pulpit <hi>plac'd i'th'</hi> Quire</l>
+                     <l>
+                        <hi>Furniſhed fewel to the Fire:</hi>
+                     </l>
+                     <l>
+                        <hi>Three ſwaſhing Blades, blind Fates agree</hi>
+                     </l>
+                     <l>
+                        <hi>Should do the work: but who they bee,</hi>
+                     </l>
+                     <l>
+                        <hi>Pray ask the</hi> Canto, <hi>that can tell</hi>
+                     </l>
+                     <l>
+                        <hi>Better than I: and ſo</hi> Farewell.</l>
+                  </lg>
+                  <lg>
+                     <l>
+                        <hi>Thus far the</hi> Porch, <hi>now view the</hi> Houſe,</l>
+                     <l>
+                        <hi>Here is the</hi> Mountain, <hi>there's the</hi> Mouſe.</l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>IMmortal feuds, and more than Civil Warrs,</l>
+                  <l>And Fights thô fierce, disfigur'd with no Scarrs.</l>
+                  <l>I ſing! And thee <hi>Great Prelate,</hi> who of late,</l>
+                  <l>Maugre the Chanter, and Reluctant Fate</l>
+                  <l>Didſt raiſe at length a <hi>Pulpit</hi> in the Quire,</l>
+                  <l>Th' immortal Trophee of thy Mortal Ire.</l>
+               </lg>
+               <lg>
+                  <l>Twice the <hi>Pragmatick Chanter,</hi> thô in vain,</l>
+                  <l>Preſum'd to diſcompoſe thy peaceful Reign;</l>
+                  <l>Twice with Schiſmatick Pride did enterprize</l>
+                  <l>To force the <hi>Chapter</hi> in Rebellion riſe;</l>
+                  <l>As oft the <hi>Dean</hi> him ſwoln with envious rage,</l>
+                  <l>Hurl'd Headlong from high hopes; and by the ſage</l>
+                  <pb n="3" facs="tcp:98069:3"/>
+                  <l>
+                     <hi>Sexton</hi> aſſiſted, terrify'd the People</l>
+               </lg>
+               <lg>
+                  <l>Who durſt diſpute the Title to his <hi>Steeple.</hi>
+                  </l>
+                  <l>Inſtruct me <hi>Muſe,</hi> for thou canſt tell, what Thirſt</l>
+                  <l>Of ſweet Revenge, thô Dire, engaged firſt</l>
+                  <l>Religious Souls to break the Sacred Tye</l>
+                  <l>Of bleſſed Peace and heaven-born Amitie,</l>
+                  <l>To make old Friends new Rivals; <hi>can there reſt</hi>
+                  </l>
+                  <l>
+                     <hi>Such bitter Gall in a Religious Breaſt?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>And thou Great <hi>Heroe,</hi> whoſe wiſe conduct ſtifled</l>
+                  <l>The growing Schiſme which elſe thy Church had rifled,</l>
+                  <l>With favour influence my Advent'rous Verſe,</l>
+                  <l>Nor dare to laugh, whileſt I thy Acts rehearſe.</l>
+               </lg>
+               <lg>
+                  <l>In melting Pleaſures of Fraternal Peace</l>
+                  <l>An ancient <hi>Abbey</hi> long had dwelt at eaſe,</l>
+                  <l>Whoſe Scarlet <hi>Prebends</hi> blear'd poor Mortals eyes,</l>
+                  <l>Whoſe <hi>Ermines,</hi> Winters Froſt, and Snow defies;</l>
+                  <l>Basking in fat, and Wealth, themſelves they Bleſs</l>
+                  <l>In ſweet Repoſe of <hi>Sacred Idleneſs:</hi>
+                  </l>
+                  <l>Thus Stretcht at length on downy Featherbeds,</l>
+                  <l>To chaunt their Matines ne're lift up their Heads,</l>
+                  <l>But before Dinner wak'd; for they could ſmell</l>
+                  <l>The Kitchin Steams, though Deaf to th' Prayer-bell;</l>
+                  <l>When Eyes and Ears Nights leaden Key compoſes,</l>
+                  <l>Kind Sleep yet open left their ſubtle Noſes;</l>
+                  <l>Theſe alwaies <hi>Eat in Perſon,</hi> but did praiſe</l>
+                  <l>Their God <hi>by Proxie,</hi> in Harmonious Layes,</l>
+                  <l>Pawning the <hi>Chanters,</hi> and Poor Singing-boyes</l>
+                  <l>Condemn'd to thoſe inferiour Drudgeries.</l>
+               </lg>
+               <lg>
+                  <l>When <hi>Diſcord</hi> dappled o're with thouſand Crimes,</l>
+                  <l>The Villanies of our Debauched times</l>
+                  <l>Quitting the humble Seat of Pariſh Churches,</l>
+                  <l>On a Magnificent <hi>Cathedral</hi> Perches,</l>
+                  <l>The hideous clang of her hate-bearing wing</l>
+                  <l>Peace trembled: whilſt the Fiend arm'd with her Sting</l>
+                  <pb n="4" facs="tcp:98069:4"/>
+                  <l>Allighting ſwift before the Pompous Pile</l>
+                  <l>Of her proud Pallace, ſtood and paws'd a while.</l>
+               </lg>
+               <lg>
+                  <l>Thence with obſerving eye, her Empire viewing,</l>
+                  <l>Fomented Feuds and Warrs thereon enſuing,</l>
+                  <l>Hatred, and variance, her ſelf ſhe bleſſes,</l>
+                  <l>Applauds her Wit in theſe Atchiev'd ſucceſſes;</l>
+                  <l>From <hi>Norwich</hi> there, and <hi>Briſtol</hi> Coaches, ſhe</l>
+                  <l>Legions of <hi>Tories</hi> dear, arriv'd might ſee,</l>
+                  <l>And could her Vaſſals boaſt of all Degrees,</l>
+                  <l>
+                     <hi>Cittizens, Nobles, Clerks, Prieſts, Dignities;</hi>
+                  </l>
+                  <l>But above all her Feats renown'd in ſtories,</l>
+                  <l>In this ſhe Prides her ſelf, in this ſhe Glories,</l>
+                  <l>That Troops of <hi>Barr-gowns</hi> rang'd under her Banner</l>
+                  <l>Had routed <hi>Themes,</hi> and now Triumph't on her;</l>
+               </lg>
+               <lg>
+                  <l>And yet ſhe ſaw, and rag'd, and Griev'd to ſee</l>
+                  <l>
+                     <hi>One Church</hi> diſturb this rare Felicity,</l>
+                  <l>
+                     <hi>One Church</hi> to brave her triumphs; <hi>one Alone</hi>
+                  </l>
+                  <l>Threaten to ſhake the firmneſs of her Throne,</l>
+                  <l>That amidſt all theſe <hi>Herricanes</hi> and <hi>Scuffles</hi>
+                  </l>
+                  <l>No breath of Stormy Wind it's Quiet ruffles.</l>
+               </lg>
+               <lg>
+                  <l>Needs muſt ſo Odious a ſight as this</l>
+                  <l>Awake her Rage, make all her Serpents hiſs;</l>
+                  <l>With <hi>Stygian Aconite</hi> her mouth ſhe fills,</l>
+                  <l>From glaring eyes ſhe ſtreams of Flame diſtills:</l>
+               </lg>
+               <lg>
+                  <l>"What? (ſaid ſhe with a tone made windows Quiver,)</l>
+                  <l>"Have I been able hitherto to Shiver</l>
+                  <l>"The Union 'twixt <hi>Cordeliers, Carmelites,</hi>
+                  </l>
+                  <l>"<hi>Dominicans, Franciſcans, Minorites,</hi>
+                  </l>
+                  <l>"Betwixt the <hi>Moliniſts,</hi> the <hi>Celeſtines,</hi>
+                  </l>
+                  <l>"<hi>Janſeniſts, Jeſuites,</hi> and <hi>Auguſtines?</hi>
+                  </l>
+                  <l>"Have I by ſecreet Arts, nouriſht <hi>the Stickle</hi>
+                  </l>
+                  <l>"<hi>Between the Church-men, and the Contenticle?</hi>
+                  </l>
+                  <l>"And ſhall one <hi>Paultry Chappel</hi> dare to Brave me;</l>
+                  <l>"Nay hope in time to it's nice Laws t' inſlave me?</l>
+                  <pb n="5" facs="tcp:98069:4"/>
+                  <l>"And am I <hi>Diſcord</hi> ſtill? <hi>who any more</hi>
+                  </l>
+                  <l>"<hi>With Incenſe will my Sacred Shrines Adore?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thus ſpoke the Hagg! And in a trice unſeen</l>
+                  <l>Of an <hi>Old Chanter</hi> takes the ſhape and meen:</l>
+                  <l>A corner'd Cap her Snake-wigg'd Head did cover,</l>
+                  <l>Her rich Face ſparkling Rubies ſtudded over,</l>
+                  <l>Her Noſe, emboſs'd with Carbuncles Divine</l>
+                  <l>Before her ſteps did like a Flamboy ſhine;</l>
+                  <l>Accoutred thus, with Red-coat Soldiers pace</l>
+                  <l>Haughty ſhe march't to find the <hi>Prelates</hi> Grace.</l>
+               </lg>
+               <lg>
+                  <l>A Stately Bed, the Poſts moſt richly Gilt,</l>
+                  <l>Cover'd with Sumptuous Crimſon Damask Quilt,</l>
+                  <l>Enclos'd with Double Curtains, ſcorning light</l>
+                  <l>Of mid-day Sun, and counterfeiting Night,</l>
+                  <l>Stood cloſe in an Appartment like a Cell</l>
+                  <l>Where Sweet Repoſe and Silence choſe to Dwell;</l>
+                  <l>The Teſter was all fac'd with Looking Glaſs,</l>
+                  <l>The rare Invention of this Golden Aſs,</l>
+                  <l>Contriv'd myſteriouſly that he might peep</l>
+                  <l>And ſee how Blithe he lookt, when faſt a-ſleep.</l>
+               </lg>
+               <lg>
+                  <l>Here lay the <hi>Mitred Head!</hi> in ſlumber drown'd,</l>
+                  <l>Whilſt gentle fumes his Dreaming Temples Crown'd;</l>
+                  <l>A Sprightly Air adorns his Youthful Face,</l>
+                  <l>His double Chin hangs down with goodly Grace;</l>
+                  <l>The Claret ſhin'd through the tranſparent Skin,</l>
+                  <l>A broad conjecture where he late had been;</l>
+                  <l>And his Fat comely Corps, ſo thick and ſhort</l>
+                  <l>Made the Soft Pillows groan under his Port:</l>
+                  <l>Here, in Sack-poſſet arm'd, without repining</l>
+                  <l>He waits in patience the bleſt hour of Dining.</l>
+               </lg>
+               <lg>
+                  <l>The Goddeſs entring, ſaw the Table ſpread,</l>
+                  <l>And all within doors rarely ordered,</l>
+                  <l>Then Softly marching to his lodging, took him</l>
+                  <l>Profoundly napping, and thus ſhe beſpoke him.</l>
+               </lg>
+               <lg>
+                  <pb n="6" facs="tcp:98069:5"/>
+                  <l>"Sleep'ſt thou, <hi>Great Prelate?</hi> Sleep'ſt thou then Supine?</l>
+                  <l>"And to <hi>the Chanter</hi> mean'ſt thy Place Reſign?</l>
+                  <l>"Whilſt he ſings <hi>Oremus,</hi> makes Grave Proceſſions,</l>
+                  <l>"And hurls about by whole-ſale Vows and Bleſſings?</l>
+                  <l>"Sleep'ſt thou ſecurely, till the <hi>Chanter</hi> come,</l>
+                  <l>"And without <hi>Bull,</hi> or <hi>Brief</hi> procur'd from <hi>Rome,</hi>
+                  </l>
+                  <l>"Whilſt thou'rt wrapt up in ſloath, and free from Fears,</l>
+                  <l>"<hi>Rotchet</hi> and <hi>Surplice</hi> ſhall pluck o're thy Ears?</l>
+                  <l>"Sluggard, awake, ariſe, beſtir thee quick,</l>
+                  <l>"Renounce thy Eaſe, or quit thy <hi>Biſhoprick!</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>She ſpoke; and from her Poyſonous Mouth did fling</l>
+                  <l>Into his Soul the <hi>Zeal of Quarrelling.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>The <hi>Dean</hi> awakes; The choler in his breaſt</l>
+                  <l>Fermented boils; yet he the Fury Bleſt!</l>
+               </lg>
+               <lg>
+                  <l>Have you not ſeen <hi>a Bull</hi> by Gad-fly ſtung,</l>
+                  <l>When his tormented pride flownc'd, kick't, and flung?</l>
+                  <l>The vexed Air, with <hi>Ecchoes</hi> frighted rings!</l>
+                  <l>Whilſt he exhales his Rage in Bellowings!</l>
+                  <l>So ſtorm'd the <hi>Prelate,</hi> with his Dream o're-heated,</l>
+                  <l>Poor Page, and Chambermaid were rudely treated;</l>
+                  <l>His mettle mov'd with conceiv'd Indignation,</l>
+                  <l>Needs will he go to'th' <hi>Quire</hi> before <hi>Collation.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>When Prudent <hi>Gilotin</hi> his Almoner</l>
+                  <l>With grave Advice ſtept into ſtint the Stir;</l>
+                  <l>Shews him the Danger of that Raſh Deſign,</l>
+                  <l>How mad to go to Prayers, before he Dine;</l>
+                  <l>"What Rage (quoth he) is this? what head-ſtrong crotchet?</l>
+                  <l>"Pray Sir, regard the Honour of your <hi>Rotchet!</hi>
+                  </l>
+                  <l>"He that for <hi>Chappel</hi> lets warm Dinner cool,</l>
+                  <l>"May think himſelf Devour, I'le think him Fool!</l>
+                  <l>"Does our Church conſecrate <hi>Prelates</hi> to Pray?</l>
+                  <l>"For ſhame, this Zeal unſeaſonable allay!</l>
+                  <l>"Shall all your Learning e're make me believe,</l>
+                  <l>"That this is <hi>Lent,</hi> or any <hi>Saints dayes</hi> Eve?</l>
+                  <pb n="7" facs="tcp:98069:5"/>
+                  <l>"Then Reaſſume your ſelf, forbear to Doat,</l>
+                  <l>"Meat heated twice, is not worth half a Groat!</l>
+               </lg>
+               <lg>
+                  <l>Thus reaſon'd <hi>Gilotin,</hi> and very loath</l>
+                  <l>T' adjourn a Meal, bad 'em ſerve in the broath.</l>
+                  <l>The <hi>Prelate</hi> ſtood a while in deep ſuſpence,</l>
+                  <l>He ey'd the <hi>Soupe</hi> with <hi>Holy Reverence;</hi>
+                  </l>
+                  <l>O'recome at laſt with Reaſon and good Nature</l>
+                  <l>He yields, and ſits him down <hi>to taſt the Creature:</hi>
+                  </l>
+                  <l>'Yet inward Rage did all the while provoke him,</l>
+                  <l>Twas fear'd each Morſel would go near to choke him;</l>
+                  <l>
+                     <hi>Gilotin</hi> ſaw't, and ſigh'd! in Zeal he riſes</l>
+                  <l>T' acquaint his party with theſe Enterpriſes;</l>
+                  <l>Tells them with Grief of Heart, what rude Affronters</l>
+                  <l>Of Lawn-ſleev'd Grandeur were theſe Sawcy <hi>Chanters;</hi>
+                  </l>
+                  <l>Proteſts they'd vex't his <hi>Lordſhip</hi> ſo that day</l>
+                  <l>His Meat went down like <hi>Orts,</hi> or <hi>old chopt Hay!</hi>
+                  </l>
+                  <l>Nay I may ſafely ſay't without Preſumption,</l>
+                  <l>This Courſe muſt bring him int' a Deep Conſumption!</l>
+               </lg>
+               <lg>
+                  <l>Now might you ſee whole troops of <hi>Chanons,</hi> all</l>
+                  <l>To <hi>Rendevouz</hi> in the great Pallace-hall!</l>
+                  <l>So have you ſeen perhaps Legions of <hi>Cranes,</hi>
+                  </l>
+                  <l>Marching on Wing o're <hi>Strymons</hi> Spacious plains,</l>
+                  <l>When the proud <hi>Pygmies,</hi> muſt'ring their warlike Nation</l>
+                  <l>Deſign againſt them an Unjuſt Invaſion!</l>
+               </lg>
+               <lg>
+                  <l>Surpriz'd at ſight of this great friendly Rabble,</l>
+                  <l>The Sweetned Prelate riſes from the Table;</l>
+                  <l>Nodding he Touch't his Hat, to keep <hi>Decorum;</hi>
+                  </l>
+                  <l>Nor ſeem'd to <hi>ſlight,</hi> nor baſely to <hi>Adore 'um!</hi>
+                  </l>
+                  <l>His face no longer ſhone with Orient Flame,</l>
+                  <l>But pleas'd, recalls the good <hi>Weſtphalia Ham;</hi>
+                  </l>
+                  <l>Then takes himſelf a luſty Beer-bowl brimmer</l>
+                  <l>Of <hi>Racy Claret,</hi> and Commends a Swimmer</l>
+                  <l>To the good Company; they with joint conſent</l>
+                  <l>Follow the <hi>Prelates gracious Precedent;</hi>
+                  </l>
+                  <pb n="8" facs="tcp:98069:6"/>
+                  <l>And, whilſt their circling <hi>Healths</hi> and <hi>Heads</hi> go round,</l>
+                  <l>
+                     <hi>Arnold</hi> and all his little <hi>Whigs,</hi> Confound!</l>
+               </lg>
+               <lg>
+                  <l>With <hi>Nectar,</hi> killing-thirſt they will allay;</l>
+                  <l>The Voider comes, the Cloath is ta'ne away,</l>
+                  <l>The <hi>Prelate</hi> then with words expreſſing Grief,</l>
+                  <l>Unto his Confidents declaims in brief!</l>
+               </lg>
+               <lg>
+                  <l>"My <hi>brave Confederates,</hi> in all Intriegues,</l>
+                  <l>"Propping my Intereſt with your holy Leagues,</l>
+                  <l>"VVhoſe Votes Unanimous once made me <hi>Dean,</hi>
+                  </l>
+                  <l>"What boots this Meagre Title? Honour Lean?</l>
+                  <l>"My Name but mention'd; Ay, and ſcarcely that,</l>
+                  <l>"Unleſs perhaps at the <hi>Magnificat;</hi>
+                  </l>
+                  <l>"How can you bear to ſee this <hi>Raſcal</hi> Noſe me,</l>
+                  <l>"And his <hi>Combined mates</hi> thus dare t'oppoſe me?</l>
+                  <l>"Invading all my Rights and Priviledges,</l>
+                  <l>"My <hi>Compeer</hi> th' <hi>Impudent,</hi> himſelf Alledges.</l>
+                  <l>"Thus leaping o're all bounds of Law and Reaſon,</l>
+                  <l>"I think <hi>t'Indite the Rebel of High Treaſon;</hi>
+                  </l>
+                  <l>"For I have by me, or at leaſt can get</l>
+                  <l>"Such VVitneſſes, be ſure ſhall do the feat!</l>
+                  <l>"This very Morn ('tis no fond tale I tell thee,</l>
+                  <l>"A <hi>Goddeſs</hi> in a Dream ſhew'd what befell me)</l>
+                  <l>"This Inſolent <hi>
+                        <g ref="char:V">Ʋ</g>pſtart</hi> e're I was Dreſſing</l>
+                  <l>"Stept up into my <hi>Throne,</hi> and gave the Bleſſing;</l>
+                  <l>"And now to cut my Throat, the laſt of Harms,</l>
+                  <l>"The <hi>Villain</hi> would uſurp my proper Arms. —</l>
+               </lg>
+               <lg>
+                  <l>More would he fain have ſaid, but briny tears</l>
+                  <l>Mixt with redoubled ſighs and inward fears,</l>
+                  <l>Did intercept his ſpeech, cut ſhort his Story,</l>
+                  <l>And ſpoil'd the Tenor of his Oratory.</l>
+               </lg>
+               <lg>
+                  <l>But <hi>Zealous Gilotin,</hi> who condol'd his Merits,</l>
+                  <l>Had one Device yet left to chear his Spirits:</l>
+                  <l>For marking how the <hi>Prelates</hi> ſpeech did vary,</l>
+                  <l>He calls for a brisk Glaſs of old <hi>Canary.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <pb n="9" facs="tcp:98069:6"/>
+                  <l>Mean time came <hi>Sidrac</hi> in, whom Age made ſlow,</l>
+                  <l>Limping upon his crutch, the News to know;</l>
+                  <l>Full fourſcore years, this <hi>Dotard</hi> in the <hi>Quire</hi>
+                  </l>
+                  <l>Had practis'd; all the Cuſtoms of his Sire,</l>
+                  <l>All Ancient uſages he could Deſcribe,</l>
+                  <l>For he was <hi>Dad</hi> of all the ſinging Tribe;</l>
+                  <l>Him time preferr'd, when waving many another,</l>
+                  <l>From poor <hi>Church-warden</hi> to a <hi>Veſtry-brother;</hi>
+                  </l>
+                  <l>He by the <hi>Prelates</hi> pale and fading colour</l>
+                  <l>Had quickly gheſs't the nature of his dolour,</l>
+                  <l>And ſweetly ſmiling, he Addreſſes thus:</l>
+               </lg>
+               <lg>
+                  <l>"And why, <hi>my Lord!</hi> ſo Puſillanimous?</l>
+                  <l>"Leave to the <hi>Chanter</hi> fruitleſs moans and tears,</l>
+                  <l>"Attend the wiſdom of now fourſcore years,</l>
+                  <l>"Enricht with large experience of affairs;</l>
+                  <l>"If of thy wrongs thou hopeſt for Repairs,</l>
+                  <l>"Then lend thy Ear attentive, <hi>Sir,</hi> be wiſe,</l>
+                  <l>"And put in practiſe what the Heavens Adviſe!</l>
+               </lg>
+               <lg>
+                  <l>"At th' end o'th' <hi>Quire</hi> where now the <hi>Haughty Knave</hi>
+                  </l>
+                  <l>"Enthron'd in borrowed luſtre dares to Brave</l>
+                  <l>"Thy <hi>Soveraignty,</hi> upon that Iron Grate</l>
+                  <l>"Stood once <hi>a Pulpit</hi> ſquare of Ancient date,</l>
+                  <l>"Behind this <hi>Machine,</hi> cover'd as with a skreen,</l>
+                  <l>"The Sneaking <hi>Chanter</hi> ſcarce could then be ſeen;</l>
+                  <l>"Whil'ſt on the oppoſite Seat, our <hi>Dean</hi> did ſhine</l>
+                  <l>"In Humane eyes with Majeſty Divine;</l>
+                  <l>"How't came about I know not, but ſome Devil</l>
+                  <l>"I do conclude the Author of this Evil;</l>
+                  <l>"Whether ſome envious hand had pluckt it down</l>
+                  <l>"By Night; or Time, or rigid Fate had thrown</l>
+                  <l>"The Structure from it's Baſe, yet this is true,</l>
+                  <l>"One morn we found i'th Floor <hi>the Sacred Pew!</hi>
+                  </l>
+                  <l>"The <hi>Chanter</hi> I ſuppoſe might Plot with <hi>Heaven;</hi>
+                  </l>
+                  <l>"Be't ſo! we may with <hi>both</hi> in time be Even:</l>
+                  <pb n="10" facs="tcp:98069:7"/>
+                  <l>"But down it came, and for the better Grace,</l>
+                  <l>"That Holy things might reſt in Holy Place,</l>
+                  <l>"We lodg'd it in <hi>the Veſtry</hi> ſtraight, and there</l>
+                  <l>"'T has lyen deſpis'd in duſt, theſe thirty year</l>
+                  <l>"Fighting with Worms and Spiders, who therein</l>
+                  <l>"Their curious Webbs do weave, and fine thred Spin;</l>
+                  <l>"And thirty more might lie, <hi>for uſe of Preaching,</hi>
+                  </l>
+                  <l>"Yet 'tis <hi>a Tool</hi> for this <hi>Rogues</hi> over-reaching.</l>
+               </lg>
+               <lg>
+                  <l>"Now mark me <hi>Sir!</hi> no ſooner ſhall the Night</l>
+                  <l>"His ſable Wings ſpread o're the vanquiſht Light,</l>
+                  <l>"But three out of our Number, without Ryot,</l>
+                  <l>"Will Slip into the <hi>Church,</hi> while all is quiet,</l>
+                  <l>"And under Covert of the darkneſs Strive</l>
+                  <l>"Once more the Ruinous <hi>Pulpit</hi>'s <hi>Maſs</hi> Revive:</l>
+                  <l>"And if next day the Chanter dares o'rethrow it,</l>
+                  <l>"By twenty Actions thou ſhalt make him know it,</l>
+                  <l>
+                     <hi>"What 'tis to rouze a ſleeping Prelate!</hi> This</l>
+                  <l>"The Proper Glory of a Prelate is,</l>
+                  <l>"To Vindicate againſt Malignant People</l>
+                  <l>"The <hi>Jus Divinum</hi> of his Ancient Steeple;</l>
+                  <l>"To reſcue from baſe Sacrilegious hands</l>
+                  <l>"His Tithes, his Offerings, Perquiſites, and Lands;</l>
+                  <l>"This makes him Glorious to the preſent Age,</l>
+                  <l>"This future Immortality Preſage:</l>
+                  <l>"What, wilt confine thy Glories to a Quire?</l>
+                  <l>"To Preach and Pray did Heaven award thy Hire?</l>
+                  <l>"Such Virtues might Adorn the dayes of Yore,</l>
+                  <l>"When <hi>Prelates</hi> only Humble, Pious, Poor,</l>
+                  <l>"Boaſted in empty Epithetes; new Times</l>
+                  <l>"Require new Manners, ſuited to our Crimes;</l>
+                  <l>"Let Church-men now frequent the Barr and Plead,</l>
+                  <l>"And <hi>Cook</hi> and <hi>Littleton,</hi> not <hi>Fathers</hi> read;</l>
+                  <l>"The Law, the <hi>Law</hi>'s thy work! then ſhall the Croud</l>
+                  <l>"Preſſing they Throne, with Prayers implore aloud</l>
+                  <pb n="11" facs="tcp:98069:7"/>
+                  <l>"Thy Benedictions, which thou may'ſt Diſpenſe</l>
+                  <l>"By dozens, ſcores, and Hundreds, and from thence</l>
+                  <l>"To his Regrett, the fretting envious Elf</l>
+                  <l>"Shall ſee thee thouſands Bleſs; and <hi>hang himſelf!</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>To ſee the Mighty Power of <hi>Eloquence,</hi>
+                  </l>
+                  <l>How little ſhort 'tis of <hi>Omnipotence!</hi>
+                  </l>
+                  <l>
+                     <hi>Sidrac</hi>'s diſcourſe had charm'd their Ears and Heart,</l>
+                  <l>And Planet-ſtrook the <hi>Dean</hi> ſtood for his part;</l>
+                  <l>Now on the Place before a foot they ſtirr,</l>
+                  <l>The Lot muſt tell whom Deſtinies preferr</l>
+                  <l>To this important ſervice; All pretend</l>
+                  <l>Both Zeal, and Fitneſs for this Noble end;</l>
+                  <l>The <hi>Prelate</hi> then ſtroaking his Milk-white Beard</l>
+                  <l>With Wiſdom ſpoke, with Reverence was Heard:</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>The Lot, my Maſters! I ordain your Law;</hi>
+                  </l>
+                  <l>
+                     <hi>From <g ref="char:V">Ʋ</g>rn Impartial each his Fortune draw:</hi>
+                  </l>
+                  <l>'Twas ſaid, 'twas done; Now all leave off their Quibling,</l>
+                  <l>Each Mothers Son betakes himſelf to Scribling;</l>
+                  <l>Full thirty Names at leaſt, in Tickets rolled</l>
+                  <l>Were reckon'd; And that none might be cajolled,</l>
+                  <l>
+                     <hi>William,</hi> a Novice 'mongſt the ſinging boyes</l>
+                  <l>(Who ſerv'd in time of Need to make a Noiſe,)</l>
+                  <l>Muſt draw the Lots; And now from fatal Bonnet</l>
+                  <l>Each man abides his Doom, what e're comes on it.</l>
+               </lg>
+               <lg>
+                  <l>Thrice had the <hi>Dean</hi> with hands lift up to Heaven</l>
+                  <l>Unto this Pious Work the Bleſſing given;</l>
+                  <l>His holy Hand thrice ſhakes the fatal Cap,</l>
+                  <l>
+                     <hi>And happy man he's Dole who has the Hap!</hi>
+                  </l>
+                  <l>Now <hi>William</hi> trembling to the Work Addreſſes,</l>
+                  <l>Him too <hi>the bounteous Dean</hi> All-to-be-Bleſſes;</l>
+                  <l>The Boy was newly ſhorn, of ruddy Hew,</l>
+                  <l>But when he came to't, the poore Lad look't Blew;</l>
+                  <l>And now he draws! firſt <hi>Brontin</hi>'s Name appears,</l>
+                  <l>Thrice happy Name to cure the <hi>Prelates</hi> fears!</l>
+                  <pb n="12" facs="tcp:98069:8"/>
+                  <l>For what leſs could that <hi>Thundring Name</hi> preſage,</l>
+                  <l>Than that he'd prove <hi>The Terror of the Age?</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>All's huſht again; and for the ſecond turn</l>
+                  <l>The boy advanc'd his ſhaking hand to th' Urn;</l>
+                  <l>When the kind fates gave out th' Auſpicious Name</l>
+                  <l>Of <hi>John</hi> the <hi>Clockmaker:</hi> A Cock oth' Game,</l>
+                  <l>This <hi>John</hi> had been, but now a jolly fellow</l>
+                  <l>Had yok'd himſelf to <hi>Nan,</hi> his dear Bed-fellow;</l>
+                  <l>This happy pair, (ſay they) before their Marriage</l>
+                  <l>Had guilty been of ſome unhandſome carriage,</l>
+                  <l>But after three years ſtealing ſecret pleaſure</l>
+                  <l>The Prieſt had joyn'd their hauds, <hi>at leaſt,</hi> together.</l>
+               </lg>
+               <lg>
+                  <l>A third remains; The <hi>Prelate</hi> takes the Urn,</l>
+                  <l>And to play fair gives it a double turn:</l>
+                  <l>Their fligg'ring Souls do now on Tiptoes ſtand,</l>
+                  <l>'Twixt fears and hopes for the deciding hand;</l>
+                  <l>How blithe waſt thou, how Buxome, and how chicket,</l>
+                  <l>When once thy Name proclaimed by the Ticket,</l>
+                  <l>Paſt all the fear of Contingent Diſaſter,</l>
+                  <l>Appear'd before the face of thy great Maſter,</l>
+                  <l>
+                     <hi>Boirude</hi> (I mean) the Sexton? Some do ſay,</l>
+                  <l>Thy livid Front e're while as pale as Clay,</l>
+                  <l>Glow'd into Sanguine; and thy Roſy Hew</l>
+                  <l>Did the Wan Sallow of thy Hide Subdue!</l>
+                  <l>Thy Gouty Legs and Toes benumm'd before,</l>
+                  <l>Ventur'd to cut three Capers on the Floor!</l>
+               </lg>
+               <lg>
+                  <l>Now might you hear the Crowd at chearful Rates</l>
+                  <l>Applaud the Juſtice of the Gentle Fates,</l>
+                  <l>Who by their peremptory ſtrict commands</l>
+                  <l>Diſpos'd the work into ſuch able Hands;</l>
+                  <l>Faith with the Court Diſſolves, all ſatisfi'd,</l>
+                  <l>And to their Quarters in great Triumph hy'd.</l>
+               </lg>
+               <lg>
+                  <l>The <hi>Dean</hi> alone, to cool his Zeal enraged,</l>
+                  <l>Slumber'd till a ſoft Supper might aſſwage it!</l>
+               </lg>
+            </div>
+            <div n="2" type="canto">
+               <pb n="13" facs="tcp:98069:8"/>
+               <head>CANTO. II.<note place="margin">Canto 2.</note>
+               </head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <lg>
+                     <l>Forſaken <hi>Nancy</hi> in this <hi>Canto,</hi>
+                     </l>
+                     <l>Brings 'gainſt her <hi>John</hi> a <hi>Quo Warranto,</hi>
+                     </l>
+                     <l>'Cauſe he had left her in the <hi>Lurch,</hi>
+                     </l>
+                     <l>To rear a Pulpit in the <hi>Church:</hi>
+                     </l>
+                     <l>And under colour of Religion</l>
+                     <l>Courted another pretty Pigeon.</l>
+                     <l>Now you muſt know that all the Blame</l>
+                     <l>Was laid upon the <hi>Baggage Fame;</hi>
+                     </l>
+                     <l>Who rais'd between them the ſad Squabble,</l>
+                     <l>By forging of this <hi>Idle Fable!</hi>
+                     </l>
+                     <l>Next you ſhall ſee in Sluggiſh Dreſs,</l>
+                     <l>That Gallant <hi>Lady Idleneſs;</hi>
+                     </l>
+                     <l>Who has more Suitors waiting on her,</l>
+                     <l>Than the moſt virtuous <hi>Maid of Honour;</hi>
+                     </l>
+                  </lg>
+                  <lg>
+                     <l>But here I almoſt had forgot</l>
+                     <l>To own the Error of our Plot,</l>
+                     <l>The <hi>Poet</hi> laid his Scene in <hi>France,</hi>
+                     </l>
+                     <l>But I can't tell by what Miſchance,</l>
+                     <pb n="14" facs="tcp:98069:9"/>
+                     <l>He now and then dares venture over,</l>
+                     <l>And ſteps as far as <hi>Deal</hi> or <hi>Dover.</hi>
+                     </l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>MEan while a <hi>Hagg,</hi> made up of Mouths and Ears,</l>
+                  <l>Who prates both what, and more than what ſhe hears,</l>
+                  <l>The Moderns call her <hi>Fame:</hi> This crafty Jade</l>
+                  <l>Of Slandring drives an unknown ſubtle trade;</l>
+                  <l>For ſhe had got the Faculty to Brew</l>
+                  <l>With dubious, Certain; and with falſe, things true;</l>
+                  <l>And with ſuch Art ſhe her Ingredients mixed,</l>
+                  <l>That where ſhe pleas'd A Calumny ſhe fixed;</l>
+                  <l>This Baggage once in her mad Moods and Tenſes</l>
+                  <l>Had <hi>Lombard</hi> nead, the Maſter o'th Sentences;</l>
+                  <l>Thence ſhe had learn'd to ſpread a Lie Malicious,</l>
+                  <l>And then to ſerve a Turn, us'd the Officious;</l>
+                  <l>When her light buſineſs call'd her to the Court</l>
+                  <l>Us'd the Jocoſe, and lewdly ly'd in ſport;</l>
+                  <l>Her trade ſhe practis'd firſt in private Letters,</l>
+                  <l>Beſpatter'd there, and vilifi'd her Betters:</l>
+                  <l>In Coffee-houſes then ſhe grew a Prater,</l>
+                  <l>Broke off all Trades, ſhe ſets up <hi>Obſervator.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>A Juſtice once clapt her i'th' Stocks and ſtript her,</l>
+                  <l>Then by a tough-back't Knave ſeverely Whipt her;</l>
+                  <l>Not warn'd, the Brazen-face would out be flying</l>
+                  <l>Againſt the State with her Opprobrious Lying;</l>
+                  <l>
+                     <hi>Jockey</hi> for Leaſing put her to the Horning,</l>
+                  <l>In <hi>England</hi> ſhe was Pillory'd for Suborning;</l>
+                  <l>A thouſand pounds for Falſe News ſhe was fined;</l>
+                  <l>And till ſhe paid the fine to Gaol Confined:</l>
+                  <l>Venturing at laſt on <hi>Scandalum Magnatum,</hi>
+                  </l>
+                  <l>Two Thouſand more; yet ſtill the Jade did rate 'um:</l>
+                  <l>Thus did the Gypſey flutter up and down</l>
+                  <l>Through City, Country, Village, and good Town;</l>
+                  <pb n="15" facs="tcp:98069:9"/>
+                  <l>Once at a Barbers Shop ſhe took a Lodging,</l>
+                  <l>But fickle in her Humour ſoon was trudging</l>
+                  <l>To th' <hi>Croſs-keys, Gun,</hi> and <hi>Ship:</hi> ſtill her Head-Quarters</l>
+                  <l>Where e're ſhe roam'd by day, was the Crack-farters!</l>
+                  <l>Forging, and telling Stories, with ſwift Wings</l>
+                  <l>This tale at laſt to Jealous <hi>Nancy</hi> brings:</l>
+                  <l>She tells (her tale I'm ſure, loſt nought i'th' telling,)</l>
+                  <l>How <hi>Johns</hi> miſguided zeal, 'gainſt Vows rebelling,</l>
+                  <l>Under a quaint pretence to ſet upright</l>
+                  <l>A Pew (forſooth!) intends to watch that Night;</l>
+                  <l>But the perfidious wretch, intends (ſayes fame)</l>
+                  <l>To Gratifie another kind of Flame!</l>
+                  <l>For tyr'd with Lawful Love, and honeſt Kiſſes,</l>
+                  <l>He elſwhere payes the Tribute of Careſſes</l>
+                  <l>Due to his Spouſe alone: Eaſie Belief</l>
+                  <l>Receiv'd the News with Terrour mixt with Grief!</l>
+               </lg>
+               <lg>
+                  <l>With finger in Eye, and Hair about her Shoulders,</l>
+                  <l>Poor <hi>Nan</hi> runs out; thought Mad by the beholders,</l>
+                  <l>Nor caring much whether ſhe wrong or right him,</l>
+                  <l>In this rude language ſtraight begins <hi>t'Indite</hi> him.</l>
+               </lg>
+               <lg>
+                  <l>Diſſembling Traitor! could not Faith once plighted,</l>
+                  <l>Nor thoſe Embraces wherein we delighted,</l>
+                  <l>Nor thy Poor Wench ready to run a Madding,</l>
+                  <l>Cool thy hot Cod-piece, but thou muſt be Gadding?</l>
+                  <l>Perfidious Wretch! didſt thou ſit up to make</l>
+                  <l>A Clock or Watch, ſome Comfort I might take;</l>
+                  <l>And hope of Lawful gain might ſlake my Anguiſh,</l>
+                  <l>Whilſt in thy Abſence, I, poor I did Languiſh:</l>
+                  <l>But what wild Phrenzie? what capricious Folly?</l>
+                  <l>What Whimſey? what Religious Melancholly?</l>
+                  <l>What ſtrange Conundrum's got into thy Head,</l>
+                  <l>To leave for Rotten Pulpit thy ſweet Bed?</l>
+                  <l>Ah! whether goeſt my <hi>John?</hi> doſt Fly thy <hi>Nancy?</hi>
+                  </l>
+                  <l>Can our delightful Nights forſake thy Fancy?</l>
+                  <pb n="16" facs="tcp:98069:10"/>
+                  <l>What! can'ſt with dry Eyes view my tears ſtill Dropping?</l>
+                  <l>See how the Stupid Block ſtands mute, and moping!</l>
+                  <l>If my ſoft Heart eaſie to thy Deſires</l>
+                  <l>Hath alwayes met with Equal Flames thy fires;</l>
+                  <l>And if to gratifie thy Itch, (my Honey,)</l>
+                  <l>I ſtood not on th' nice points of Matrimony;</l>
+                  <l>If in my Arms, thou, thou haſt had ſole part,</l>
+                  <l>Speak not that wounding, killing word, <hi>Depart.</hi>
+                  </l>
+               </lg>
+               <lg>
+                  <l>Thus ſpoke our Lover whining, plain and round,</l>
+                  <l>And clos'd her ſpeech with an half-dying ſwoon;</l>
+                  <l>Upon a Pallet backwards down ſhe fell,</l>
+                  <l>Fortune had plac'd the Couch exceeding well;</l>
+                  <l>Twenty to one ſhe elſe had broke her Rump,</l>
+                  <l>Up ſtarts amazed <hi>John,</hi> beſtirs his Stump,</l>
+                  <l>'Twixt Zeal and Love, his heart ſtood long divided,</l>
+                  <l>Till Zeal at laſt the Queſtion decided;</l>
+                  <l>And thus his ſmother'd paſſion got vent,</l>
+                  <l>Smoothing with kind words o're his wild Intent.</l>
+               </lg>
+               <lg>
+                  <l>Dear Spouſe, (ſaid he with voice unkindly kind)</l>
+                  <l>Shall e're thy favours ſlide out of my mind?</l>
+                  <l>The <hi>Rhine</hi> ſhall firſt his ſtreams mix with the <hi>Loire,</hi>
+                  </l>
+                  <l>E're I forget the ſence of my Devoire;</l>
+                  <l>Nay firſt ſhall <hi>France</hi> keep Faith and Oath with <hi>Spain,</hi>
+                  </l>
+                  <l>E're I thy love-ſick Agonies diſdain:</l>
+                  <l>But never Dream, that when I gave my Troth,</l>
+                  <l>I would become a Slave unto my Oath;</l>
+                  <l>Our Nation knows no ſuch nice Obligation,</l>
+                  <l>The Ancient Faith's now quite worn out of faſhion;</l>
+                  <l>Had the Fates truſted me with mine own Lot,</l>
+                  <l>I ne're had raſhly knit the VVedlock Knot;</l>
+                  <l>But from thoſe ſubtle Rites had ſtill been free</l>
+                  <l>To taſt the fruit of the forbidden Tree;</l>
+                  <l>But ſince that matters in this poſture ſtand,</l>
+                  <l>Grudge not my Glory, if I lend a hand</l>
+                  <pb n="17" facs="tcp:98069:10"/>
+                  <l>To this bleſs'd work, the Height of my deſire,</l>
+                  <l>To Raiſe the Pulpit in the ſacred Quire.</l>
+                  <l>Compoſe theſe paſſions ſtrugling in thy Breaſt,</l>
+                  <l>Dry up thoſe Tears! Come Sweet! Lye down and reſt!</l>
+               </lg>
+               <lg>
+                  <l>He ſaid; but what, the Wench regarded not,</l>
+                  <l>E're half was done, the firſt ſhe had forgot;</l>
+                  <l>With hollow Cheeks, and ſtaring Eyes ſhe view'd him,</l>
+                  <l>Trembling ſhe lay, and in her heart beſhrew'd him;</l>
+                  <l>Long ſilent, ſtifled thoughts with pain at laſt</l>
+                  <l>Broke priſon, Raging then ſhe Rail'd as faſt.</l>
+               </lg>
+               <lg>
+                  <l>No, no, Baſe Varlet! Thy Sire ne're was Baker,</l>
+                  <l>Nor cam'ſt thou of the blood of a Clock-maker!</l>
+                  <l>Thy Mother never rode in Hackney Coach,</l>
+                  <l>A Baſtard-brat rather of ſome Turn-broch,</l>
+                  <l>Or <hi>Caucaſus</hi> did form thee, of a Pebble,</l>
+                  <l>Or ſome fell Tigreſs nurs'd thee with her nibble;</l>
+                  <l>Sure with her milk thou drew'ſt in Feritie,</l>
+                  <l>Other I'le ne're believe until I Die:</l>
+                  <l>For to what end ſhould I the Raſcal flatter?</l>
+                  <l>Let me ſob, roar, or ſwoon, 'tis all a matter</l>
+                  <l>To marble-hearted <hi>John;</hi> and all I gain</l>
+                  <l>Is to draw on freſh injuries again!</l>
+                  <l>A Pew! what Mortal throat can ever gulp it,</l>
+                  <l>Thus to compare me with a Rotten Pulpit!</l>
+                  <l>Has all my ſcolding ſqueez'd from's Eyes one Tear?</l>
+                  <l>Has he expreſs't the leaſt Remorſe for's Dear?</l>
+                  <l>When he came hither firſt, this paltrey Jack</l>
+                  <l>Had ſcarce a Shooe to's foot, a Rag to's back;</l>
+                  <l>Nay I can ſafely ſwear't, becauſe I know't,</l>
+                  <l>The Villain was not worth a ſingle Groat;</l>
+                  <l>I like a Fool took him to Bed and Board,</l>
+                  <l>And now the Raſcal ſwaggers like a Lord:</l>
+                  <l>But why thus Raving do I beat a Rock,</l>
+                  <l>Only to purchaſe foam? Baſe Spirits mock</l>
+                  <pb n="18" facs="tcp:98069:11"/>
+                  <l>Abject complaints; Humble Petitionings,</l>
+                  <l>Are ſtill contemn'd, but in the breaſts of Kings.</l>
+               </lg>
+               <lg>
+                  <l>Then ſtudy brave Revenge, deſpiſed Love,</l>
+                  <l>Nor ſhall Repentance e're my Pity move;</l>
+                  <l>And when thy Ears ſhall hear my Paſſing-bell,</l>
+                  <l>Then, then expect Another kind of Knell;</l>
+                  <l>My Angry Ghoſt ſhall haunt thy Conſcious Soul,</l>
+                  <l>I'le Ring thee ſuch a Peal, ſhall make thee Howl;</l>
+                  <l>Hobgoblins ſhall thy houſe turn topſey-turvey,</l>
+                  <l>Conſcience ſhall then upbraid thee, what a Scurvey</l>
+                  <l>Knave thou haſt been to thy Deſerted Wife,</l>
+                  <l>And make thee Pulpits Curſe, whil'ſt thou haſt Life!</l>
+                  <l>Nay, I'le purſue thee to the <hi>Stygian</hi> Lake,</l>
+                  <l>And ugly Ballads, Boyes of thee ſhall make.</l>
+               </lg>
+               <lg>
+                  <l>This ſaid, ſhe dropt backwards upon her breech,</l>
+                  <l>For raging ſorrow quite had ſtopt her ſpeech;</l>
+                  <l>The noiſe awaken'd <hi>Aſſe</hi> her truſty Maid,</l>
+                  <l>Who Hobling ſoon came in unto her Aid.</l>
+               </lg>
+               <lg>
+                  <l>Now Darkneſs had exil'd th' expiring Day,</l>
+                  <l>Supper to Service had given leave to play;</l>
+                  <l>The fudling, Chanters now in Clubs were got,</l>
+                  <l>Wetting their Whiſtles with the good Ale-pot.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Brontin,</hi> whom Zeal for th' ſervice had made quicker,</l>
+                  <l>Bethought himſelf, A Punch of Nappy Liquor</l>
+                  <l>In a Gold Winters Night was no falſe Latine,</l>
+                  <l>To qualifie Devotion for the Matine;</l>
+                  <l>This Cargo, <hi>Gilotin</hi>'s deep providence</l>
+                  <l>Laid in; he was (ſay truth) A man of ſence,</l>
+                  <l>The ſmell o'th' Bottle made him eas'ly lugg</l>
+                  <l>The grateful Cumber of the Double Jugg;</l>
+                  <l>Thus trudg'd he nimble: Whom ſhould he ſtumble next on,</l>
+                  <l>But that tough ſtick of Wood, <hi>Boirude</hi> the Sexton?</l>
+                  <l>Now both together warm'd with Zeal were haſting</l>
+                  <l>To meet the Clock-maker, for Time was waſting:</l>
+                  <pb n="19" facs="tcp:98069:11"/>
+                  <l>Come! come away! (cry'd they) with quick devotion,</l>
+                  <l>The Sun's now gone to tipple in the Ocean!</l>
+                  <l>The Murky Night which veils the Evenings bravery,</l>
+                  <l>Will make a handſome Cloak to hide our Knavery;</l>
+                  <l>What ails thee Man? where haſt of late been mew'd up?</l>
+                  <l>Thou look'ſt as if firſt eaten, and then ſpew'd up:</l>
+                  <l>VVhere is that morning Zeal, that with thee roſe?</l>
+                  <l>Chear up, and pluck thy Heart out of thy Hoſe!</l>
+                  <l>Come, fear no Colours! The end the Act will hallow!</l>
+                  <l>Then whether Honour calls thee, bravely follow.</l>
+               </lg>
+               <lg>
+                  <l>The Clock-maker knew not well how to take it,</l>
+                  <l>Nor whether Jeſt or Earneſt he ſhould make it,</l>
+                  <l>Half Pale, half Red he look't with motley paſſion,</l>
+                  <l>For Shame and Rage had dy'd him in that faſhion;</l>
+                  <l>Yet, on my word the Knave had wit in's Anger,</l>
+                  <l>And wiſely took along his ruſty Hanger;</l>
+                  <l>For he reſolv'd at a Dead pinch to knock it,</l>
+                  <l>And ſcorn'd to ſtand, and ſneak with hands in Pocket:</l>
+                  <l>Nails he a handful took, and on his ſhoulders</l>
+                  <l>A Maſſie Beetle, frighted the beholders;</l>
+                  <l>An Axe, a Saw, a Hammer, and a Mallet</l>
+                  <l>The ſturdy knave had truſs'd in Leathern Wallet;</l>
+                  <l>They march accoutred in Warlike Parade,</l>
+                  <l>And <hi>John</hi> appears at th' Head of the Brigade;</l>
+                  <l>The ſilent Moon, viewing their ſtately Port,</l>
+                  <l>Withdrew her Beams, ſhe might not ſpoil the ſport.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Diſcord</hi> ſaw all, and ſet up a loud Laughter,</l>
+                  <l>Th' Eccho rebounds and ſhook Heavens hollow Rafter;</l>
+                  <l>The Noiſe had almoſt waken'd Idleneſs</l>
+                  <l>As ſhe at Court with Eaſe held ſweet Careſs,</l>
+                  <l>The frisking Pleaſures danced by her ſide,</l>
+                  <l>The Nuns her Votaries, her Deify'd;</l>
+                  <l>One, in a Corner Stufft the Prebends hides,</l>
+                  <l>One, pleaſantly the Chanons robes Deribes;</l>
+                  <pb n="20" facs="tcp:98069:12"/>
+                  <l>Luxury to her State devoutly bows,</l>
+                  <l>And Sleep drop't Poppy-water on her Brows.</l>
+                  <l>This Even the ſleepy Doſe they had redoubled,</l>
+                  <l>In vain! for Diſcord's cries her ſleep had troubled!</l>
+                  <l>And envious Night conſpiring with that Devil,</l>
+                  <l>Buzz'd in her Drowſy Ears the Tragick Evil;</l>
+                  <l>Night tells her how the Prelate did deſign</l>
+                  <l>To make Diſturbance in the Sacred Shrine;</l>
+                  <l>How ſhe had ſeen three Mortal Foes to Quiet,</l>
+                  <l>March in <hi>Battalia;</hi> and Three will make a Ryot:</l>
+                  <l>How Diſcord threatned, to augment the fray,</l>
+                  <l>A Pulpit to erect by Break of Day;</l>
+                  <l>Which would the people raiſe in Mutinies,</l>
+                  <l>Thus, thus the Fates had written in the Skies!</l>
+               </lg>
+               <lg>
+                  <l>At this Report, portending deadly Harm,</l>
+                  <l>
+                     <hi>Idleneſs</hi> rais'd her ſelf up on one Arm,</l>
+                  <l>One Languid Eye ſhe opes, and with weak Voice</l>
+                  <l>Drop't theſe ſoft whiſpers; fearing her own Noiſe.</l>
+               </lg>
+               <lg>
+                  <l>Ah Night! ſad tale thou tell'ſt! what envious Fiend,</l>
+                  <l>With new Combuſtions doth my Quiet rend?</l>
+                  <l>Ah! what's become of thoſe thrice bleſſed Dayes,</l>
+                  <l>VVhen Idle Princes crown'd with wither'd Bayes</l>
+                  <l>Slept on their Thrones, and tamely worſhipt me,</l>
+                  <l>Leaving their Scepters to a Deputy?</l>
+                  <l>All Night the Court did Feaſt, and ſlept all Day,</l>
+                  <l>Creeping abroad perhaps when verdant <hi>May</hi>
+                  </l>
+                  <l>VVith Gentle breathing <hi>Zephyrs</hi> ſweet approaches</l>
+                  <l>Call'd them to th' Park, drawn in ſix Horſe-and-Coaches.</l>
+                  <l>That happy Age is fled; for now a Prince</l>
+                  <l>Has got the Throne, and baniſht me long ſince;</l>
+                  <l>Scorning my Pleaſures: to my melting Charms</l>
+                  <l>He ſtops his Ears with Thundring Drums Alarms:</l>
+                  <l>And breaks my pleaſing Dreams with Trumpets Sound,</l>
+                  <l>Nor Summers Heat, nor VVinters Froſt confound</l>
+                  <pb n="21" facs="tcp:98069:12"/>
+                  <l>His Daring projects; warlike preparations,</l>
+                  <l>Reſolv'd to Attack the VVorld with freſh Invaſions!</l>
+                  <l>Nay all my Subjects ripe for Inſurrection</l>
+                  <l>Imbibe with eagerneſs the Dire Infection.</l>
+                  <l>'Twice had I hop'd with flatt'ring Peace to cool</l>
+                  <l>His Martial Ardor; 'twice to ſhut the School</l>
+                  <l>Of <hi>Janus:</hi> All in Vain! except I find</l>
+                  <l>More VVorlds to ſatiate his Ambitious Mind!</l>
+                  <l>'Twould tire my feeble feet to trace the way</l>
+                  <l>VVhere the hard Stages of his Valour lay;</l>
+                  <l>But yet I pleas'd my ſelf with hopes to meet</l>
+                  <l>For my diſturbed Soul ſome ſafe Retreat:</l>
+                  <l>I fancied that A Church might eaſe afford,</l>
+                  <l>VVhere Church-men ſleep in Bed, and wake at Board;</l>
+                  <l>But Oh! theſe Chanters, Chanons make a Pother,</l>
+                  <l>A Dog can't reſt, whil'ſt one worries another:</l>
+                  <l>And which provokes me moſt to Indignation,</l>
+                  <l>The whole world's ſet a gog on Reformation.</l>
+                  <l>VVhat Holy Mother Church, Impoſing ſaith,</l>
+                  <l>This Age receives not with Implicit Faith;</l>
+                  <l>Nay Blind Obedience now is ſtyl'd <hi>A Vice,</hi>
+                  </l>
+                  <l>Sawcy Diſſenters will be counted wiſe;</l>
+                  <l>Men now Plead Conſcience, make a heavy Din</l>
+                  <l>VVith Heaven and Hell; of Duty prate, and Sin:</l>
+                  <l>Theſe empty Names have ſet the World on fire!</l>
+                  <l>Now e're they ſwallow, they will firſt enquire;</l>
+                  <l>They'l ſee a Reaſon given for Church Commands,</l>
+                  <l>And uſe their Eyes, e're they beſtir their Hands.</l>
+               </lg>
+               <lg>
+                  <l>Who can Remember, and not ſadly grieve,</l>
+                  <l>Thoſe eaſie dayes when on the Prelates ſleeve</l>
+                  <l>The ſupple Laity had pinn'd their Soul,</l>
+                  <l>Nor Private durſt the Publick Faith Controll;</l>
+                  <l>When Canons, Conſcience; Rubrick, Reaſon mated,</l>
+                  <l>And Souls had learn't to bow, and ne're debate it?</l>
+                  <pb n="22" facs="tcp:98069:13"/>
+                  <l>Then <hi>Maſſe</hi>'s, <hi>Ave</hi>'s, <hi>Credo</hi>'s Glory earned,<note place="margin">Canto 3.</note>
+                  </l>
+                  <l>Blind Vot'ries then could reach it unconcerned!</l>
+               </lg>
+               <lg>
+                  <l>But now the Begging Fryars are all for travel,</l>
+                  <l>They exerciſe their Toes in Duſt and Gravel;</l>
+                  <l>The preaching Friars ſuch a coil do keep,</l>
+                  <l>My aking head can get no wink of Sleep!</l>
+                  <l>Yet my <hi>Ciſtercians</hi> did a little bleſs</l>
+                  <l>My hopes, in Cloiſters pamp'ring Idleneſs,</l>
+                  <l>When a Miſchievous Pulpits Curſt intent</l>
+                  <l>Threatens to force me thence to Baniſhment!</l>
+               </lg>
+               <lg>
+                  <l>Ah Night! the Dear Aſſociate of my Sleep,</l>
+                  <l>VVilt with theſe Villains Correſpondence keep?</l>
+                  <l>Ah Night! Sweet Night! If e're thou didſt Eſſay</l>
+                  <l>VVith me the Joyes concealed from the Day,</l>
+                  <l>Then ſuffer not— Much more ſhe would have ſpoke,</l>
+                  <l>Had not a Qualm crept o're her heart, and broke</l>
+                  <l>The Languid purpoſe: Down ſhe ſank in Bed,</l>
+                  <l>Sigh'd, ſtretch'd her Arms, clos'd Eyes, and Slumbered!</l>
+               </lg>
+            </div>
+            <div n="3" type="canto">
+               <pb n="23" facs="tcp:98069:13"/>
+               <head>CANTO III.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <lg>
+                     <l>An Owl inſtructed by the Night,</l>
+                     <l>Cunningly counterfeits A Sprite:</l>
+                     <l>In Pulpit cloſe ſhe lies Perdue,</l>
+                     <l>And terrifies the Prelates Crew!</l>
+                     <l>They Routed fly with heavy Clatter,</l>
+                     <l>The Canto tells you, what's the matter;</l>
+                     <l>But Diſcord to Retrieve the ſport</l>
+                     <l>Rallies them ſoon in Warlike ſort:</l>
+                     <l>All Oppoſitions overpaſt,</l>
+                     <l>They ſet the Pulpit up at laſt:</l>
+                     <l>But fear not leſt the Prelate Preacht in't;</l>
+                     <l>Alas he has a further reach in't!</l>
+                     <l>To spight his Foes, yet for all's Feating,</l>
+                     <l>The proof of th' Pudding's ſeen i'th' eating.</l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>BUt Night in haſt with her Dark Canopy,</l>
+                  <l>Shrowding the viny Plains of <hi>Burgundy,</hi>
+                  </l>
+                  <l>Flew back to th' City; and as ſuddenly</l>
+                  <l>Wheel'd round to view the Towers of <hi>Monlheri;</hi>
+                  </l>
+                  <l>Thoſe walls, whoſe towering Summits mate the skies,</l>
+                  <l>Built on a Rock which Duskie Clouds diſguiſe.</l>
+                  <pb n="24" facs="tcp:98069:14"/>
+                  <l>And objects repreſenting ſeen from far,</l>
+                  <l>That they did move perſwade the Paſſenger.</l>
+                  <l>Here ominous Birds, here Ravens foreboding fate,</l>
+                  <l>In ruinous Chinks do rooſt, and keep their ſtate;</l>
+                  <l>Here thirty Winters mur'd in obſcure Cell</l>
+                  <l>An Owl-ſecure from hatefull Light did dwell:</l>
+                  <l>This truſty Meſſenger of Dire miſhap</l>
+                  <l>Has the firſt News of Ill dropt in her lap;</l>
+                  <l>And alwayes ready to proclaim ſad Tiding</l>
+                  <l>Waits in theſe Deſerts, Nights approach abiding:</l>
+                  <l>At whoſe return her Accents rend the Skies,</l>
+                  <l>And fright the Vicinage with black Deſtinies;</l>
+                  <l>Complaining <hi>Progne</hi> anſwers to her Tones,</l>
+                  <l>And mourning <hi>Philomel</hi> renewe her Groans.</l>
+                  <l>To whom Night thus: Come, follow me! The Bird</l>
+                  <l>Obey'd, when firſt her Miſtreſs voice ſhe heard:</l>
+               </lg>
+               <lg>
+                  <l>With flight Precipitant, the Pair, out ſpring</l>
+                  <l>And reach the Town high ſayling on the Wing,</l>
+                  <l>Then wafting at one Reach, they proudly Pearch</l>
+                  <l>On higheſt Pinnacle of the fatal Church!</l>
+               </lg>
+               <lg>
+                  <l>Night curſt her Eyes to ſee the Camrades march,</l>
+                  <l>For now All three had reacht the Porches Arch;</l>
+                  <l>She ſaw the Clock-maker, with faithful fingers</l>
+                  <l>A glaſs of ſmiling Wine hold, glad, nor lingers:</l>
+                  <l>Here Truſty Mates, A health I here Begin,</l>
+                  <l>They pledg'd him, to their Patron <hi>Gilotin:</hi>
+                  </l>
+                  <l>Oh ſee (ſays Night) theſe Rogues ſing Huzza! proud</l>
+                  <l>Of ſure ſucceſs, under my favouring Shroud;</l>
+                  <l>But come! the Traitors ſoon ſhall feel our Might,</l>
+                  <l>If I at leaſt be juſtly ſtyled Night!</l>
+               </lg>
+               <lg>
+                  <l>This ſaid, ſhe leads into the Sacred Vault,</l>
+                  <l>Into the Veſtry flies, there makes an Alt,</l>
+                  <l>And in the Concave of the fatal Pew,</l>
+                  <l>Orders Madge-Howlet there to lie Perdue!</l>
+               </lg>
+               <lg>
+                  <pb n="25" facs="tcp:98069:14"/>
+                  <l>Mean while, our three great Champions flown with Wine,</l>
+                  <l>And Wines effects, Audacity; with Deſign</l>
+                  <l>To puſh their Project on, without regard</l>
+                  <l>To Danger near, had paſs'd the Pallace-yard,</l>
+                  <l>Embolden'd with ſucceſs, ſtill on they go</l>
+                  <l>And mount the Stairs, leading to th' Portico,</l>
+                  <l>Here a Bookſeller in his back-ſhop ſlept,</l>
+                  <l>And under double Padlock ſafely kept</l>
+                  <l>
+                     <hi>Rogero</hi>'s worthy Works! and he may ſtill</l>
+                  <l>Keep 'em entire, for ſure no other will.</l>
+               </lg>
+               <lg>
+                  <l>Now wary <hi>Boirude,</hi> fearing Danger nigh</l>
+                  <l>Stops his raſh Friends in heat of Zeal; to try</l>
+                  <l>How they might light a Candle: from his Pocket</l>
+                  <l>He takes his Marchaſite, begins to knock it</l>
+                  <l>With hardned Steel, out ſprings an Active ſpark,</l>
+                  <l>The hope of Light in the Deſpair of Dark;</l>
+                  <l>The ſpark in Tinder cheriſht, toucht with Metch</l>
+                  <l>In Sulphur dip't, kindles with quick diſpatch</l>
+                  <l>The Torch; which like a Comet blazing bright</l>
+                  <l>Supplies the Office of <hi>Don Phoebus</hi> Light.</l>
+                  <l>
+                     <hi>Boirude</hi> the Sexton, kept the Church-dore Key,</l>
+                  <l>And if he entrance got, then why not they?</l>
+                  <l>With equal pace the Temples Nave they meaſure!</l>
+                  <l>Into the Veſtry came: Here lies the Treaſure!</l>
+                  <l>Here proſtrate they behold the Pulpit's frame,</l>
+                  <l>And with due Reverence adore the ſame!</l>
+                  <l>The Gloomy ſhades of that Religious place</l>
+                  <l>Horrour begat, the Bigot Church-man's Grace,</l>
+                  <l>Horror awakes Devotion; they pray!</l>
+                  <l>And dread thoſe Deities they Scorn'd by day.</l>
+               </lg>
+               <lg>
+                  <l>When thus the Clock-maker: Why ſtare ye thus,</l>
+                  <l>My Maſters, A-la-mort? time's precious!</l>
+                  <l>Why ſtand we trembling, trifling, ſhall I, ſhall I?</l>
+                  <l>Our work's before us, let's no longer dally!</l>
+                  <pb n="26" facs="tcp:98069:15"/>
+                  <l>The Pulpit muſt be rais'd, that by to morrow</l>
+                  <l>Our Dean may ſee't with Joy, his Foes with Sorrow!</l>
+                  <l>So ſaid, he laid his bones to't; and did ſtrain</l>
+                  <l>To roll it o're, with all his Might, and Main;</l>
+                  <l>He ſcarce had mov'd it, O portentous wonder!</l>
+                  <l>When from its hollow womb a Voice did Thunder;</l>
+                  <l>
+                     <hi>Brontin</hi> ſtarts back! The Sexton lookt like Dead!</l>
+                  <l>
+                     <hi>John</hi> with his Dear, twice wiſht himſelf in Bed!</l>
+                  <l>But on their purpoſe obſtinately bent,</l>
+                  <l>They roll it or'e, true Zeal will ne're relent!</l>
+                  <l>Out flies the broad-fac'd Choriſter of the Night,</l>
+                  <l>And with her ruffling wings ſtrikes out the Light:</l>
+                  <l>This ſtruck their Souls with horrible Confuſion,</l>
+                  <l>Amaz'd they ſtand, they doubt; but in concluſion,</l>
+                  <l>As ſoon as Fear lent them the uſe of Feet</l>
+                  <l>Away they trudge, fill'd with ſhame and Regret;</l>
+                  <l>The Nave they ſoon recover; whil'ſt their hair</l>
+                  <l>Stands briſtling on their heads, diſſolving fear</l>
+                  <l>Makes their Knees quiver underneath their Bodies,</l>
+                  <l>And there they ſneaking ſtand like baffled Noddies,</l>
+                  <l>Sheltred by the ſame Darkneſs brought them thither,</l>
+                  <l>The Squadron flies at laſt, they knew not whither.</l>
+               </lg>
+               <lg>
+                  <l>So when a Jolly Crew of Truants gather</l>
+                  <l>Into ſome Nook, to play their pranks together,</l>
+                  <l>Secure of Eyes from Monitor and Maſter,</l>
+                  <l>They burn the day in game, and ſport the faſter;</l>
+                  <l>If now by chance, the Tyrants Eye doth watch 'em,</l>
+                  <l>And unawares at Cards or Dice he catch 'em;</l>
+               </lg>
+               <lg>
+                  <l>The ſad ſurprize, their Mirth and Paſtime daſhes,</l>
+                  <l>And each ſhifts for himſelf to ſcape his laſhes.</l>
+                  <l>Such was our Warriours plight when once the Owl</l>
+                  <l>Sprung from the Pew, ſet up her Doleful howl.</l>
+               </lg>
+               <lg>
+                  <l>Diſcord, who ſaw unſeen their fowl diſgrace,</l>
+                  <l>Clapping her wings, pity'd their woful caſe:</l>
+                  <pb n="27" facs="tcp:98069:15"/>
+                  <l>Their Spirits quail'd, their Courages abated;</l>
+                  <l>Rallies in haſt the Troop diſanimated.</l>
+               </lg>
+               <lg>
+                  <l>Of <hi>Sidrac,</hi> ſhe th' Audacious Viſage borrow'd,</l>
+                  <l>His front ſhe ſmooth'd into a ſmile; but furrow'd</l>
+                  <l>His face with wrinkles deep; A Truncheon ſtrong</l>
+                  <l>Confirms his ſtaggering ſteps; thus ſtalks along</l>
+                  <l>The Marble Pavement; guided by a Torch,</l>
+                  <l>Finds out the skulking Cowards near the Porch;</l>
+                  <l>Then with a ſqueaking Voice ſpoke fourſcore years,</l>
+                  <l>A wakes their mettle, diſſipates their Fears.</l>
+               </lg>
+               <lg>
+                  <l>Raſcals! where are you? what Pannick Dread does rout you?</l>
+                  <l>Run from one paultry Owl? ne're look about you!</l>
+                  <l>Where are thoſe boaſts which late breath'd nought but Thun<g ref="char:EOLhyphen"/>der?</l>
+                  <l>Fie! ſhall a harmleſs Bird diſperſe y' aſunder?</l>
+                  <l>How would you ſneak, vile Souls, if at the Barr,</l>
+                  <l>My daily ſport, you met with horrid Warr?</l>
+                  <l>How would you ſtand a tedious <hi>Chanc'ry</hi> Hearing,</l>
+                  <l>If poor Hobhowchin puts you in this fearing?</l>
+                  <l>How would your hearts miſgive to bide a Triall,</l>
+                  <l>No Friend at Hand, nor in your Purſe a Ryall?</l>
+                  <l>Believe me (Cowards!) I, with Grace be't ſpoken,</l>
+                  <l>Simply thô I ſtand here, have foil'd and broken</l>
+                  <l>A Chapter, with her Chanons, Prebends, Dean;</l>
+                  <l>Nor was my Soul ſo Abject, Baſe, ſo Mean,</l>
+                  <l>But I durſt look the Proctors in their faces,</l>
+                  <l>And ſcorn their proudeſt braves, their ſtern Menaces!</l>
+                  <l>I have purſu'd 'em all, Aſham'd, confuted,</l>
+                  <l>'Tis Perſecutors, cry'd out, Perſecuted!</l>
+                  <l>All this I did, and ten times more in ſooth,</l>
+                  <l>With the ſole Breaſt-plate arm'd of <hi>Naked Truth!</hi>
+                  </l>
+                  <l>The Church of old was mann'd with Gallant Spirits,</l>
+                  <l>A Novice then confiding in the Merits</l>
+                  <l>Of the fam'd Good Old Cauſe, dar'd to Defend it</l>
+                  <l>
+                     <hi>In formâ Pauperis,</hi> and make 'em end it!</l>
+                  <pb n="28" facs="tcp:98069:16"/>
+                  <l>But this Decrepid Age to Sloath inclines,</l>
+                  <l>Nor brings forth now ſuch Puiſſant Divines!</l>
+               </lg>
+               <lg>
+                  <l>Thus far howe're their Virtues imitate,</l>
+                  <l>Let not an Owl your Courages abate:</l>
+                  <l>Think what a Blot it draws upon your Glory,</l>
+                  <l>How it does ſtain the luſtre of your ſtory:</l>
+                  <l>If once the Chaunter learns your baſe Defeat,</l>
+                  <l>Your flight Ignoble, and your vile Retreat,</l>
+                  <l>Where e're he meets you, hee'l thus fleer and flout you;</l>
+                  <l>Heark, the Owl cryes! brave Souldiers look about you!</l>
+                  <l>Then will your conſcious guilt with ſhame upbraid you,</l>
+                  <l>You'l curſe your ſlaviſh fears that Cowards made you!</l>
+                  <l>Then reinforce your Spirits, by preventing</l>
+                  <l>Th' Affronts, which will be bitter in reſenting:</l>
+                  <l>Remember, Sirs, whoſe Cauſe your hands engages,</l>
+                  <l>Firſt win, then bravely wear his Lawrel wages:</l>
+                  <l>Recall your wonted worth, new frights forgetting;</l>
+                  <l>'Tis <hi>York-ſhire</hi> Cloath, you know, that ſhrinks i'th' wetting!</l>
+               </lg>
+               <lg>
+                  <l>But I perceive ſucceſs my ſpeech doth follow,</l>
+                  <l>Then march, run, fly (brave Boys!) where dangers call you!</l>
+                  <l>That our Great Mitred Prince, may ſee his Engines</l>
+                  <l>Before th' Affront be ſpread, taking due Vengeance.</l>
+               </lg>
+               <lg>
+                  <l>This ſpoke, the Fiend diſguis'd in flaſh of Fire</l>
+                  <l>Vaniſht, with freſh rage did their hearts inſpire.</l>
+               </lg>
+               <lg>
+                  <l>Juſt ſo it was, Great <hi>Conde!</hi> at that battle</l>
+                  <l>When thy brave Arms made <hi>Rhine</hi> and <hi>Sheld</hi> to rattle,</l>
+                  <l>Thy wings, and Battle on <hi>Lens</hi> ſpacious Border</l>
+                  <l>Inclin'd to rout, and lean'd to foul diſorder,</l>
+                  <l>Thy Valour firm'd the wavering Troops that day,</l>
+                  <l>And ſpirited their Files with fleſh arry!</l>
+                  <l>Inſpir'd new Hearts, and gave 'em all New Hands,</l>
+                  <l>Till vanquiſht Victory follow'd thy Commands!</l>
+               </lg>
+               <lg>
+                  <l>Thus in a moment Rage ſucceeded Fear,</l>
+                  <l>And clouded courage once again ſhone clear!</l>
+                  <pb n="29" facs="tcp:98069:16"/>
+                  <l>They countermarch! The Owl Retreats quite routed,</l>
+                  <l>And now they ſcorn her, whom ſo late they doubted.</l>
+               </lg>
+               <lg>
+                  <l>Not unreveng'd! for as ſhe flew, ſhe muted</l>
+                  <l>In <hi>Boirude</hi>'s gaping mouth, triumph'd and hooted;</l>
+                  <l>Raſcally Bird, (ſaid he) All Face and Feather!</l>
+                  <l>The Shame of Day; the Boder of Ill Weather!</l>
+                  <l>Dar'ſt thou preſume (profane!) to ſpice i'th' Quire?</l>
+                  <l>And make the Pulpit A Sir-Reverence higher?</l>
+                  <l>And Scot-free this! No, no, I'm not in ſport;</l>
+                  <l>I'le trounce and bounce thee for't i'th' Spiritual Court;</l>
+                  <l>Where Doctors, Proctors, Paritors together</l>
+                  <l>Shann't leave upon thy Naked back one Feather;</l>
+                  <l>I'le make thee then for all thy Hooting, ſneak</l>
+                  <l>Like her that ſcap'd the Devils Arſe i' th' Peak:</l>
+               </lg>
+               <lg>
+                  <l>But talk's but talk! Come Boyes, let's fall to action!</l>
+                  <l>The Owl is flown! the laſt o'th' Chanters faction!</l>
+               </lg>
+               <lg>
+                  <l>The Pulpit now is heav'd into the Quire,</l>
+                  <l>And on the Chanter's Seat advanced higher,</l>
+                  <l>Her Rotten ledge repair'd; her Joints that gaped</l>
+                  <l>With Planes united; all was comely ſhaped!</l>
+               </lg>
+               <lg>
+                  <l>The Wainſcott eccho's to the lab'ring hammer,</l>
+                  <l>The Roof back to the Walls reſounds the Clamor;</l>
+                  <l>The Organ-pipes provok'd with this rude Rumbling,</l>
+                  <l>Struck up a Baſe, and gravely fell a grumbling!</l>
+               </lg>
+               <lg>
+                  <l>Now Chanter! black's thy Day, thou little thinkeſt</l>
+                  <l>What work's a brewing; Sleep in Boles thou drinkeſt,</l>
+                  <l>On both ears; ſnoring after late Debauches,</l>
+                  <l>Nor dream'ſt what miſchief now thy Head approaches:</l>
+                  <l>Secure thou ly'ſt unarm'd, unwarn'd of Harms,</l>
+                  <l>Hugging thy Dainty Doxy in thy Arms!</l>
+               </lg>
+               <lg>
+                  <l>O that ſome friendly Ghoſt, in Nightly Viſion</l>
+                  <l>Would timouſly reveal thy ſad condition!</l>
+                  <l>Now! now they heave! the hateful Pulpit rearing!</l>
+                  <l>'Twould ſtrike thee dead, wer't thou within the Hearing;</l>
+                  <pb n="30" facs="tcp:98069:17"/>
+                  <l>Alas! above thy Seat, the Machine glories</l>
+                  <l>To have ſurmounted thee five lofty ſtories;</l>
+                  <l>The Sexton at three ſtrokes, makes the Nail enter,</l>
+                  <l>And now the Pulpit ſtands firm on its Center.</l>
+               </lg>
+            </div>
+            <div n="4" type="canto">
+               <head>CANTO IV.</head>
+               <argument>
+                  <head>The ARGUMENT.</head>
+                  <lg>
+                     <l>Alas! The Poëms curious Model</l>
+                     <l>Is Alter'd quite i' th' Poets Noddle!</l>
+                     <l>So Nature oft, for want of Tools,</l>
+                     <l>Decrees Wiſe men, produces Fools:</l>
+                     <l>To tell you True, my Muſe and I</l>
+                     <l>Deſign'd at firſt, the Victory</l>
+                     <l>To Maſter Dean; how 't came about</l>
+                     <l>I cannot tell; but now the Rout</l>
+                     <l>Is His: yet ſo, The Fancy's richer</l>
+                     <l>To end in Pot, commence in Pitcher!</l>
+                     <l>Such was the Project! ſuch th' Event!</l>
+                     <l>But liſten to the Argument!</l>
+                  </lg>
+                  <lg>
+                     <l>The Chanter's Dream: A Chapter called;</l>
+                     <l>Fine Speeches made; The Pulpit mawled;</l>
+                     <l>This Counter-Scuffle, I dare ſtand in't,</l>
+                     <l>The Goddeſs <hi>Diſcord</hi> had a hand in't:</l>
+                     <pb n="31" facs="tcp:98069:17"/>
+                     <l>The Prelates foes;<note place="margin">Canto 4.</note> The Chanters friends;</l>
+                     <l>The <hi>Canto,</hi> and the Poëme ends.</l>
+                  </lg>
+               </argument>
+               <lg>
+                  <l>THE Pulpit now lifting its lofty Head</l>
+                  <l>With carved Canopy ſtands Covered;</l>
+                  <l>When the Church-clocks with their melodious chime,</l>
+                  <l>Summon'd the Singing-boyes to riſe: 'Tis time</l>
+                  <l>To Riſe to Matins! Thus the Bells did Chink!</l>
+                  <l>Thus did at leaſt the dreaming Sluggard think.</l>
+               </lg>
+               <lg>
+                  <l>Drown'd in ſweet Sleep th' Arch-chanter roll'd at eaſe,</l>
+                  <l>(A Soveraign Medicine 'gainſt the twinging Fleas,)</l>
+                  <l>Whoſe roving Fancy traverſt many a Theme,</l>
+                  <l>Startled at laſt with terror of a Dream;</l>
+                  <l>He cry'd out, waken'd at his own fierce crying,</l>
+                  <l>And parboil'd in his mellow Sweat lay frying.</l>
+                  <l>His Pages ſtarting at the ſudden Noyſe,</l>
+                  <l>Began to busſle, rubbing their gum-glew'd Eyes;</l>
+                  <l>One frighted runs, but poor fool, knew not whither,</l>
+                  <l>And from the dore leaps back, e're well got thither:</l>
+                  <l>
+                     <hi>Girot,</hi> (a truſtier Slave ne're waited on him,)</l>
+                  <l>Runs to his Maſter, ne're a Rag upon him;</l>
+               </lg>
+               <lg>
+                  <l>What the Rope ails you? (cry'd the teſty Lacquey,)</l>
+                  <l>Does th' Night-mare ride you, or the Old Witch make you</l>
+                  <l>Roar at this rate? What a mad coil you keep here,</l>
+                  <l>That people cannot ſteal a Nap, or ſleep here?</l>
+                  <l>Compoſe your ſelf for ſhame! The wiſer Sun</l>
+                  <l>His race Nocturnal has but half-way run;</l>
+                  <l>Is this a time for Prayers? Let Singing-boyes</l>
+                  <l>Whoſe Penſion's pay for't, do thoſe Drudgeries!</l>
+               </lg>
+               <lg>
+                  <l>Ah friend! (reply'd the quaking Chanter) friend!</l>
+                  <l>Inſult not o're my juſter Paſsion; lend</l>
+                  <l>Thy patient Ear to my ſad Fate, and joyn</l>
+                  <l>Thy ſecret ſorrowes to theſe tears of mine!</l>
+                  <pb n="32" facs="tcp:98069:18"/>
+                  <l>Attend I ſay! (I tremble whil'ſt I'm ſpeaking,)</l>
+                  <l>The weighty Reaſons of my poor heart breaking!</l>
+               </lg>
+               <lg>
+                  <l>God <hi>Morpheus</hi> long before the peep of day,</l>
+                  <l>Had lockt my Senſes up with leaden Key</l>
+                  <l>In ſecond ſleep; when dulcid fumes and vapours,</l>
+                  <l>In Fancies Cell, diſport in frolick Capers;</l>
+               </lg>
+               <lg>
+                  <l>Methought I ſat enthroned in the Quire,</l>
+                  <l>Where crowds of Choriſters my Grace admire;</l>
+                  <l>There bleſt the gawping throng; there Incenſe ſweet,</l>
+                  <l>Stolne from the Saints, my pleaſed Senſes meet,</l>
+                  <l>When from the bottom of the Veſtry came</l>
+                  <l>A Prodigy too terrible to name;</l>
+                  <l>From Dusky Clouds (methought) of wreathed Smoak</l>
+                  <l>Wide opening, A Hideous Monſter broke,</l>
+                  <l>Whoſe Mouth, Eyes, Noſtrils, vomit flame, fume, fire,</l>
+                  <l>How pale look'd all the Choriſters i'th' Quire!</l>
+                  <l>Him the proud Prelate dragg'd along in Chains,</l>
+                  <l>Tame like a broken Colt, with Bit and Reins;</l>
+                  <l>But, that which ſtruck us all more than half dead,</l>
+                  <l>A Pulpit iſſued from the Dragons Head.</l>
+                  <l>Horripilation ſeiz'd me! my fleſh quiver'd!</l>
+                  <l>My loins relax'd with diſmal horror ſhiver'd!</l>
+                  <l>We all conclude from the Sulphureous ſmell,</l>
+                  <l>Dragon and Pulpit both muſt come from Hell;</l>
+                  <l>Led by his Guide, the Monſter doth aſpire</l>
+                  <l>Unto my Seat, there plac'd himſelf i'th' Quire.</l>
+                  <l>Think! think, my Ganymede, how was I appalled</l>
+                  <l>To ſee the Horrid Fiend thus high inſtalled;</l>
+                  <l>I ſcriecht in vain, in vain I fled the Fury!</l>
+                  <l>This I'le depoſe, is Truth before a Jury!</l>
+               </lg>
+               <lg>
+                  <l>But here the Chaunter paws'd: he judg'd it beſt</l>
+                  <l>To let his Eyes and Looks ſpeak out the reſt.</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Girot</hi> eſſay'd to comfort him in vain;</l>
+                  <l>This Viſion, Sir! perhaps might riſe from pain</l>
+                  <pb n="33" facs="tcp:98069:18"/>
+                  <l>In your diſturb'd Head; Melancholly Vapours</l>
+                  <l>Careering in the Brain beget theſe Capers:</l>
+               </lg>
+               <lg>
+                  <l>The Chaunter croſs'd, ſtorms, rages, and in choler</l>
+                  <l>Leaps out of bed to mitigate his dolour;</l>
+                  <l>Scorning with ſorry Page to brawl, and quarrell,</l>
+                  <l>He calls in haſt for's Holy-day Apparell!</l>
+               </lg>
+               <lg>
+                  <l>A fair ſilk Caſſock, richly lin'd with Pluſh</l>
+                  <l>Tho' duſty (<hi>Girot</hi> could not find the Bruſh,)</l>
+                  <l>He firſt put on; next a ſilk Mohair Gown</l>
+                  <l>Which to his heels with dragling train hung down;</l>
+                  <l>A pair of Purple Gloves his proper badges,</l>
+                  <l>A Rotchet which the Dean once gave as wages;</l>
+                  <l>Yet jealous leſt his Tail the ground ſhould ſweep,</l>
+                  <l>The Shears had dockt it ſhort, three Inches deep.</l>
+                  <l>His corner'd Cap (for fear of cold) on's Head,</l>
+                  <l>His Hood in's hand for haſt, he hurried;</l>
+                  <l>Away he ſpeeds thus gorgeouſly equipped,</l>
+                  <l>Never did ſeventy years ſo nimbly trip it!</l>
+                  <l>He curſt an old Sciatica that Stop'd him,</l>
+                  <l>But yet his wooden Crutch moſt ſtoutly prop't him;</l>
+                  <l>Rage added wings; inſpir'd with Zealous Fire</l>
+                  <l>(Whil'ſt others lagg'd) he firſt arriv'd i'th' Quire.</l>
+               </lg>
+               <lg>
+                  <l>O Thou, who in a Rapture, tranc'd in Boggs,</l>
+                  <l>Deſcrib'ſt the Battel of the Mice and Froggs!</l>
+                  <l>And Thou! whoſe curious Pencil drew to th' Life</l>
+                  <l>All <hi>Italy</hi> for Goats-wooll fallen at ſtrife;</l>
+                  <l>Or rather thou, whoſe Muſe did Pen the Stories</l>
+                  <l>Of the ſad Contraſts 'tween the <hi>Whiggs</hi> and <hi>Tories!</hi>
+                  </l>
+                  <l>Lend me a Tongue that may expreſs a Paſſion,</l>
+                  <l>Of mixed Envy, Spight, Rage, Emulation,</l>
+                  <l>Firſt pale and dumb he ſtood, like one confounded;</l>
+                  <l>As if ten thouſand Furies him ſurrounded;</l>
+                  <l>His Maſs of Blood boils, all his Humours bubble;</l>
+                  <l>Such power have Pulpits to create our trouble!</l>
+                  <pb n="34" facs="tcp:98069:19"/>
+                  <l>His belly ſwell'd like <hi>Sybils</hi> raptur'd Prieſt,</l>
+                  <l>With hollow ſounding noiſe like Pythoniſt,</l>
+                  <l>Strugling he ſtood under this inward load,</l>
+                  <l>Releas'd at laſt he thus ſhook off the God!</l>
+               </lg>
+               <lg>
+                  <l>See! <hi>Girot</hi> ſee! the True Interpretation</l>
+                  <l>Of my late Phantaſme, which thy fooliſh Paſſion</l>
+                  <l>Call'd a Deluſion! thus the Dream I conſter,</l>
+                  <l>This Pulpit is the Hideous Hell-born Monſter!</l>
+                  <l>This! this the fatal, the Malignant skreen</l>
+                  <l>Will never more let me, poor me, be ſeen!</l>
+                  <l>Ah Prelate! trebble Vengance now indeed</l>
+                  <l>Thy plotting pate has heap'd upon my Head!</l>
+                  <l>Could not thy Malice hugg it ſelf in bed,</l>
+                  <l>Between two Nappy blanckets covered?</l>
+                  <l>To force my cold Seat, thy warm Couch reſign?</l>
+                  <l>Put out thy right Eye, to put out both mine?</l>
+                  <l>O Heavens! O Hell! ſee how this Hateful Maſs</l>
+                  <l>Has made a Tomb of my once glorious Place?</l>
+                  <l>Where I may ſleep Inglorious, Sans Regard,</l>
+                  <l>Nor more than Powers Unſeen, be ſeen, or heard!</l>
+                  <l>Nay rather than endure this fowl diſgrace,</l>
+                  <l>A thouſand times I'le quit this loathed Place:</l>
+                  <l>Ne're ſing <hi>Te Deum</hi> more! Renounce the Alter!</l>
+                  <l>And end my dayes at <hi>Tyburn</hi> in a Halter!</l>
+                  <l>I ought not, cannot, will not live a Minute</l>
+                  <l>I' th' Church, whilſt hateful Pulpit triumphs in it;</l>
+                  <l>Come <hi>Girot!</hi> lend thy friendly helping hand,</l>
+                  <l>If I have breath and ſtrength, it ſhall not ſtand!</l>
+               </lg>
+               <lg>
+                  <l>He ſpoke! his Arm waited upon his words,</l>
+                  <l>Strength fill'd his Arm, and Fury ſtrength affords:</l>
+                  <l>Arreſts the Pulpit; and with haughty frown,</l>
+                  <l>Come down thou Idol! or I'le pluck thee down!</l>
+               </lg>
+               <lg>
+                  <l>Juſt in the juncture of this flaming hate,</l>
+                  <l>As the wiſe Deſtinies ordain'd, and Fate,</l>
+                  <pb n="35" facs="tcp:98069:19"/>
+                  <l>Who ſhould come in, but <hi>Girard</hi> the Bell-ringer?</l>
+                  <l>And at his heels amain, <hi>Ribout</hi> the Singer?</l>
+                  <l>No couple greater Bigots of the Chanters,</l>
+                  <l>Againſt the Prelate none more deſperate Ranters;</l>
+                  <l>At the Dire ſight though both did Sympathize,</l>
+                  <l>Yet they advis'd his Worſhip to be wiſe!</l>
+                  <l>Pray Sir! ſaid they, for once be rul'd by Fools!</l>
+                  <l>'Tis dangerous medling naked, with edg'd Tools!</l>
+                  <l>'Tis ten to one the Prelate will Alledge</l>
+                  <l>This fact of yours guilty of Sacriledge!</l>
+                  <l>Nay who can tell but at the General Dyet</l>
+                  <l>We may be Queſtion'd, and Condemn'd of Ryot?</l>
+               </lg>
+               <lg>
+                  <l>Call then a Chapter; put it to the Vote,</l>
+                  <l>Let faithful tellers take the Poll, and note</l>
+                  <l>The Ay's and Noe's; And if we carry't, then Sir!</l>
+                  <l>Down goes the Innovation, once agen Sir!</l>
+               </lg>
+               <lg>
+                  <l>This ſage Advice repriev'd ſome little while</l>
+                  <l>The trembling Pulpit: The Chanter feigns a ſmile!</l>
+               </lg>
+               <lg>
+                  <l>Call then a Chapter! Run! Make haſt! Away!</l>
+                  <l>Summon the Drowzy Drones! Nay Pray you ſtay,</l>
+                  <l>Quoth Honeſt <hi>Ribout</hi> the fam'd Choriſter;</l>
+                  <l>No more haſt than good ſpeed, beſeech you Sir!</l>
+                  <l>Raſh actions often bring too late Repentance!</l>
+                  <l>
+                     <hi>Girard</hi> was hugely taken with the ſentence,</l>
+                  <l>And ſeconds him: Great Sir! this weighty Buſineſs,</l>
+                  <l>This Nice point will not bear Haſte, or Remiſneſs!</l>
+                  <l>Perhaps the Chanters and the Monks may be</l>
+                  <l>Awak'd, but did your Reverence ever ſee</l>
+                  <l>Prebends and Canons before break of Day</l>
+                  <l>Frequent the Chappel, there to ſing, or ſay</l>
+                  <l>
+                     <hi>Surſum Corda!</hi> Believe me, Sir! believe me,</l>
+                  <l>I ſpeak't with troubled Heart, the thing does grieve me,</l>
+                  <l>When ſix bells jangling, for theſe thirty Years</l>
+                  <l>Could never pierce their Barricado'd Ears,</l>
+                  <pb n="36" facs="tcp:98069:20"/>
+                  <l>What hope two ſniveling Chanters cryes ſhould wake 'em,</l>
+                  <l>And to Cold Prayers from their warm Beds betake 'em?</l>
+                  <l>Could you ſend <hi>Jove</hi> with his loud Thunder-claps,</l>
+                  <l>Your Plot perhaps might take, and but perhaps:</l>
+                  <l>With what Charms then, hope you here to prevail?</l>
+                  <l>Theſe Adders ſtop their Ears with their own Tail.</l>
+               </lg>
+               <lg>
+                  <l>The Chanter netled heard in fuſtian fume</l>
+                  <l>Rejoyning <hi>Girard</hi> thus ſawcily preſume,</l>
+                  <l>And thus! Nay now falſe heart, I plainly ſee</l>
+                  <l>What leg thou halt'ſt on! 'Tis the Prelate, he</l>
+                  <l>That mortifies thy baſe enfeebled Spirits,</l>
+                  <l>Vile Venal Soul! what know'ſt thou not my Merits?</l>
+                  <l>I oft have ſeen thee cringe with ſupple Hams,</l>
+                  <l>To woe his bleſſings; Alas! mere flim-flams!</l>
+                  <l>Well! go, and baſely bend thy Oyled knees,</l>
+                  <l>I have enow without thee, to make 'em riſe.</l>
+               </lg>
+               <lg>
+                  <l>Come <hi>Girot!</hi> Come, my truſty ſteel-edg'd friend,</l>
+                  <l>Thee on this deſp'rate Errand I dare ſend,</l>
+                  <l>Nor fear ſucceſs: Take me the Thund'ring Hammer,</l>
+                  <l>On Holy Thurſday us'd to raiſe a Clamour;</l>
+                  <l>And truſt me friend, The Riſing Sun ſhall ſee</l>
+                  <l>The Chapter met in it's Formality!</l>
+                  <l>'Twas ſaid, 'twas done! forth from the ſacred Cheſt</l>
+                  <l>Where it did lie from year to year at reſt,</l>
+                  <l>The Mawl is brought: Away they March, and cry</l>
+                  <l>The Chapter waits you; waits you inſtantly!</l>
+               </lg>
+               <lg>
+                  <l>Diſcord would not be wanting in the Brawl,</l>
+                  <l>She enters ſtraight the Prelates Palace-Hall,</l>
+                  <l>Augments the Din; the Neighbour-hood ſhe ſcares</l>
+                  <l>With riſing Scare-fires, ſudden Maſſacres;</l>
+                  <l>The Chanons now Awake! Strange tale to tell,</l>
+                  <l>Such wonder in an Age had ſcarce befell!</l>
+                  <l>One ſwears the Lightnings did inveſt the Town,</l>
+                  <l>That Thunder-bolts had beat the Houſes down,</l>
+                  <pb n="37" facs="tcp:98069:20"/>
+                  <l>And one cryes, Fire! Fire! Fire! the Church doth burn</l>
+                  <l>A ſecond time; A third hopes a new turn,</l>
+                  <l>For Holy Thurſday! ſome whoſe gutts chim'd Noon</l>
+                  <l>Bleſs't the Occaſion that call'd them ſo ſoon</l>
+                  <l>From Bed to Board; for all Agree, no Knell</l>
+                  <l>Could more concern them than the Dinner-bell!</l>
+               </lg>
+               <lg>
+                  <l>But yet the Noiſe that had unglew'd their eyes</l>
+                  <l>Could not perſwade the Sluggiſh Chanons riſe,</l>
+                  <l>Nor leave the Pleaſures of th' enchanted Bed,</l>
+                  <l>Till wily <hi>Girot</hi> got this trick in's Head;</l>
+                  <l>With <hi>Stentors</hi> Voice he makes loud Proclamation<g ref="char:punc">▪</g>
+                  </l>
+                  <l>O yez! I'th' Chapter Houſe, A rare Collation</l>
+                  <l>Stands ready dreſs't to meet your Appetite!</l>
+                  <l>He needed ſay no more: O bleſſed ſight</l>
+                  <l>To ſee the Prebends haſt in Numerous throngs!</l>
+                  <l>What Rhetorick has Soup! how little Songs!</l>
+                  <l>Deaf Bellies now found Ears: one Chanon ran</l>
+                  <l>With one hoſe off, the other ſcarcely on;</l>
+                  <l>Another durſt not ſtay to tye his ſhooes,</l>
+                  <l>But ſlip-ſho'd hobbl'd, leſt he Breakfaſt looſe.</l>
+                  <l>A third, whoſe appetite ſeverely itches</l>
+                  <l>Had not due time to hook his dropping Breeches!</l>
+                  <l>Fallacious Hopes! here was nor bread, nor Wine!</l>
+                  <l>The cheated Fools muſt with Duke <hi>Humphrey</hi> dine!</l>
+                  <l>Yet mute they ſate, expecting when at laſt</l>
+                  <l>The Servitors bring in the hop'd Repaſt?</l>
+                  <l>Nor was it Reaſon that the gutled Fops</l>
+                  <l>Should ſpend their Tongues, who could not uſe their Chops.</l>
+               </lg>
+               <lg>
+                  <l>The Chanter though he ſaw his plot ſucceed,</l>
+                  <l>Yet fear'd Delay might unſeen Danger breed;</l>
+                  <l>Riſing with blubber'd eyes brim full of Tears,</l>
+                  <l>Unboſoms to them all his Griefs and Fears.</l>
+               </lg>
+               <lg>
+                  <l>But Chanon <hi>Everard,</hi> whoſe barking Maw</l>
+                  <l>All Hungry Gueſts, but yet no Victuals ſaw,</l>
+                  <pb n="38" facs="tcp:98069:21"/>
+                  <l>Impatient of delay, as he was able,</l>
+                  <l>Cry'd out aloud; Pray Sirs, bring in the Table;</l>
+                  <l>What mean you thus to fruſtrate our rais'd Hopes?</l>
+                  <l>Muſt we ſit alwayes pining in our Copes?</l>
+               </lg>
+               <lg>
+                  <l>The Chanter conſcious of his cheat, gave way</l>
+                  <l>To his Juſt Indignation; nor durſt ſay</l>
+                  <l>Ought in Reply; till Father <hi>Allain</hi> broke</l>
+                  <l>The Horrid ſilence, and moſt gravely ſpoke:</l>
+               </lg>
+               <lg>
+                  <l>This <hi>Allain</hi> you muſt know, was a learn'd Rabbin,</l>
+                  <l>Who ſpent his dayes at ſtudy in his Cabbin;</l>
+                  <l>Twice twenty times had he turn'd o're the Summs</l>
+                  <l>Of Father <hi>Bauny,</hi> had pick't up the Crums</l>
+                  <l>Of <hi>Thomas à Kempis;</hi> he knew the Lattin,</l>
+                  <l>Although his Gown was neither Silk nor Sattin;</l>
+                  <l>He gravely cought, and coughing gravely Roſe,</l>
+                  <l>Diſcharg'd his mind in <hi>Ciceronian</hi> Proſe;</l>
+                  <l>Which cauſe the ſence was Great, the language terſe,</l>
+                  <l>The Poet has Immortaliz'd in Verſe.</l>
+                  <l>I'le pawn my Life on't (ſaid the Canoniſt)</l>
+                  <l>This is the Knavery of ſome <hi>Janſeniſt!</hi>
+                  </l>
+                  <l>I dare believe my own eyes Information!</l>
+                  <l>Our Prelate's pleas'd with <hi>Gurniers</hi> Converſation:</l>
+                  <l>
+                     <hi>Arnold</hi> that Heretick waits our Deſtruction,</l>
+                  <l>And this Tool uſes for the Deans ſeduction:</l>
+                  <l>No doubt but he can from St. <hi>Auſtin</hi> prove</l>
+                  <l>That one St. <hi>Lewis</hi> ſent from Heaven above,</l>
+                  <l>In after Ages riſing in our <hi>France,</hi>
+                  </l>
+                  <l>A Pulpit in this Chappel ſhould advance:</l>
+                  <l>Now to confute him there lies all the skill,</l>
+                  <l>Hee'l plague us with the Torrent of his Quill;</l>
+                  <l>One Argument we've yet left to confute him,</l>
+                  <l>Let's burn him in Effigie, that will rout him!</l>
+                  <l>Let others turn o're each Voluminous Father,</l>
+                  <l>That's not my Province; To be ſhort, I'de rather</l>
+                  <pb n="39" facs="tcp:98069:21"/>
+                  <l>Conſult with Father <hi>Bauny;</hi> he alone</l>
+                  <l>With me is twenty <hi>Anſtins,</hi> all in One:</l>
+                  <l>Go then and Rumage all Antiquity,</l>
+                  <l>If any footſteps there, of Pulpits be;</l>
+                  <l>We've time enough e're day! fall to your task,</l>
+                  <l>No longer ſpace than till day-break we ask:</l>
+                  <l>So many Heads, and hands I doubt not, can</l>
+                  <l>Before Sun-riſe perufe the <hi>Vatican!</hi>
+                  </l>
+                  <l>This uncouth motion ſtartled all that heard it,</l>
+                  <l>Till fat-guts <hi>Everard</hi> open'd, and quite marr'd it:</l>
+               </lg>
+               <lg>
+                  <l>A wiſe device! (quoth he) And pray, what Gains</l>
+                  <l>Shall anſwer all this Cumber, all theſe pains?</l>
+                  <l>For one poor lowzy Pew, to break our Brains:</l>
+                  <l>'Tis more Ingenious to Study Meat,</l>
+                  <l>Let his Thin Chops his Muſty Authors Eat!</l>
+                  <l>We've other Fiſh to fry! I am a man</l>
+                  <l>That Read alike Bible and Alchoran!</l>
+                  <l>If I can learn what Rents my Tenants owe;</l>
+                  <l>When Mortgag'd Vineyards forfeited do grow;</l>
+                  <l>Can I preciſely learn the Quarters day,</l>
+                  <l>When wooden Shooes trudge up their dues to pay;</l>
+                  <l>There lies my Talent! I no Learning lack,</l>
+                  <l>But what is enter'd in my Almanack.</l>
+                  <l>
+                     <hi>Imprimis,</hi> fifty Marks a year in Ground-Rents;</l>
+                  <l>
+                     <hi>Item,</hi> twice fifty more <hi>Per-ann.</hi> in Pound-Rents!</l>
+                  <l>When Wheat, and Mault in crowded Garners lie,</l>
+                  <l>I boaſt me of a well-ſtor'd Library!</l>
+                  <l>Why vex we then Dead Fathers, Greeks and Lattins?</l>
+                  <l>Our Mother Tongue will ſerve to Mumble Mattins;</l>
+                  <l>I'le ask no help of <hi>Scotus</hi> to pull down</l>
+                  <l>A Pulpit! This great Arm the Work ſhall Crown.</l>
+                  <l>All's one to me, let <hi>Arnold</hi> judge or quit me,</l>
+                  <l>I'le hit him home agen, whoe're dares hit me:</l>
+                  <pb n="40" facs="tcp:98069:22"/>
+                  <l>Fie on theſe long Harangues! Let's live, and Drink!</l>
+                  <l>And let cenſorious Whigs think what they think!</l>
+               </lg>
+               <lg>
+                  <l>Thus <hi>Everard</hi> ſpoke! A heavy Abbey Lubber!</l>
+                  <l>Whoſe Head was alwayes nuzling in the Cubber'd!</l>
+               </lg>
+               <lg>
+                  <l>
+                     <hi>Ribout</hi> the Choriſter then demurely roſe,</l>
+                  <l>And theſe Impertinencies ſtiffly oppoſe.</l>
+               </lg>
+               <lg>
+                  <l>I never lik'd tedious Circumlocutions,</l>
+                  <l>And ſhall adviſe to more conciſe concluſions!</l>
+                  <l>Let <hi>Trombaut</hi> make but the great Organs roar,</l>
+                  <l>They'l blow the Pulpit quickly out o'th' dore!</l>
+               </lg>
+               <lg>
+                  <l>Needs muſt the Chanter own each man his friend,</l>
+                  <l>Though diff'ring in the Means, they jumpt i'th' Eend!</l>
+                  <l>The General cry went ſtill, Ay! one and all!</l>
+                  <l>Let the Proud Pulpit, Let the Pulpit fall!</l>
+                  <l>Thus all Unanimous held the Concluſion,</l>
+                  <l>But in the Premiſes was great Confuſion:</l>
+                  <l>Juſt ſo at <hi>Trent,</hi> when Concord in a Bag</l>
+                  <l>Came Poſt from <hi>Rome,</hi> they hit it to a Tag!</l>
+               </lg>
+               <lg>
+                  <l>The leaſt he lik'd was he that laſt had ſpoke,</l>
+                  <l>His Patience that a little did provoke:</l>
+                  <l>I ne're Approv'd (quoth he) this moral work!</l>
+                  <l>Who knows what fallacy may under't lurk?</l>
+                  <l>Who can aſſure me but the Pulpits blaſt</l>
+                  <l>May puff the Organs out of Doors at laſt?</l>
+                  <l>We ſometimes ſaw the ſad experiment,</l>
+                  <l>Away with that Dubious Expedient;</l>
+                  <l>Come, Come! Lets make (ſaid he) a Quick diſpatch!</l>
+                  <l>Whil'ſt we prate here, we faſt in pain, and watch!</l>
+                  <l>Down with the Idol! As I am a ſinner,</l>
+                  <l>My eager ſtomach crokes, and calls for Dinner!</l>
+                  <l>There will we ſit, Chat, Eat, Drink, Laugh, grow fat,</l>
+                  <l>Exiling fretting Care, that kills a Cat!</l>
+               </lg>
+               <lg>
+                  <l>He roſe in haſty Zeal; The faithful Troop,</l>
+                  <l>Arm'd with the Pregnant hopes of Sacred Soup,</l>
+                  <pb n="41" facs="tcp:98069:22"/>
+                  <l>Follow their Leader: to the Quire they go,</l>
+                  <l>There view the Object of their Rage, and Wo;</l>
+                  <l>There on the Common Enemy they lay</l>
+                  <l>United hands; and at the firſt eſſay</l>
+                  <l>Pluck down the Provocation of their Spleen;</l>
+                  <l>So in the Woods of <hi>Ardenne</hi> have I ſeen,</l>
+                  <l>Sacred to <hi>Jove,</hi> an Ancient ſpreading Oak</l>
+                  <l>Fall at the Axes oft redoubled ſtroke!</l>
+               </lg>
+               <lg>
+                  <l>The Boards they rend in Pieces; and the Quarry</l>
+                  <l>In Triumph to the Chanters Kitchin carry!</l>
+                  <l>So Arduous was the work! of ſuch Renown!</l>
+                  <l>To ſet a Pulpit up, to pluck a Pulpit down!</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
